@@ -1,0 +1,1001 @@
+id,title,description,category,priority,status,created_at
+1,Need help: Keyboard keys not working,Several keys on my keyboard have stopped responding. This is affecting my work.,hardware,medium,resolved,2025-09-02 17:13:40
+2,Application crashing,Microsoft Excel crashes every time I open large files.,software,low,open,2025-10-05 17:13:40
+3,Browser performance issues,Chrome browser is very slow and unresponsive. Has been happening since yesterday.,software,low,resolved,2025-10-18 17:13:40
+4,Software license expired,AutoCAD showing license expired message. Has been happening since yesterday.,software,low,open,2025-09-16 17:13:40
+5,Mouse not responding,Wireless mouse is not connecting to my computer. This is affecting my work.,hardware,low,resolved,2025-10-30 17:13:40
+6,Monitor display issues,Second monitor is not being detected by my computer.,hardware,low,open,2025-11-18 17:13:40
+7,Need help: Data breach concern,"Concerned about potential data breach, unusual activity noticed. Multiple users are reporting this issue.",security,medium,resolved,2025-09-02 17:13:40
+8,Application crashing,Microsoft Excel crashes every time I open large files. Multiple users are reporting this issue.,software,low,open,2025-11-16 17:13:40
+9,Access permission needed,Need access to the shared drive for marketing team. Please help urgently.,account,low,open,2025-10-28 17:13:40
+10,Email account issues,"Cannot access my email account, shows invalid credentials. Has been happening since yesterday.",account,low,resolved,2025-09-02 17:13:40
+11,Email client not syncing,Outlook is not syncing my emails properly.,software,low,open,2025-10-24 17:13:40
+12,Laptop screen flickering,My laptop screen keeps flickering and going black. Has been happening since yesterday.,hardware,low,in_progress,2025-11-08 17:13:40
+13,Data breach concern,"Concerned about potential data breach, unusual activity noticed. Has been happening since yesterday.",security,low,open,2025-10-19 17:13:40
+14,Need help: New user account setup,New employee needs account setup for all systems. This is affecting my work.,account,medium,open,2025-10-06 17:13:40
+15,Important: VPN not working,VPN connection keeps dropping every few minutes. Has been happening since yesterday.,network,medium,resolved,2025-09-10 17:13:40
+16,Email account issues,"Cannot access my email account, shows invalid credentials. Multiple users are reporting this issue.",account,low,in_progress,2025-09-23 17:13:40
+17,System down: Printer paper jam,Office printer has a paper jam that I cannot clear. Multiple users are reporting this issue.,hardware,high,resolved,2025-09-19 17:13:40
+18,Need help: Slow internet speed,"Internet is extremely slow, pages take forever to load. This is affecting my work.",network,medium,open,2025-10-06 17:13:40
+19,Important: VPN not working,VPN connection keeps dropping every few minutes.,network,medium,open,2025-11-04 17:13:40
+20,Network printer offline,Network printer is showing offline status.,network,low,resolved,2025-10-13 17:13:40
+21,New user account setup,New employee needs account setup for all systems. This is affecting my work.,account,low,in_progress,2025-10-23 17:13:40
+22,Account locked out,My account has been locked after multiple login attempts. Please help urgently.,account,low,resolved,2025-10-28 17:13:40
+23,Mouse not responding,Wireless mouse is not connecting to my computer. Has been happening since yesterday.,hardware,low,open,2025-10-11 17:13:40
+24,Browser performance issues,Chrome browser is very slow and unresponsive. This is affecting my work.,software,low,in_progress,2025-11-01 17:13:40
+25,Important: Browser performance issues,Chrome browser is very slow and unresponsive. Multiple users are reporting this issue.,software,medium,open,2025-11-18 17:13:40
+26,Software license expired,AutoCAD showing license expired message. This is affecting my work.,software,low,resolved,2025-10-17 17:13:40
+27,Access permission needed,Need access to the shared drive for marketing team.,account,low,open,2025-09-13 17:13:40
+28,VPN not working,VPN connection keeps dropping every few minutes.,network,low,open,2025-09-17 17:13:40
+29,Application crashing,Microsoft Excel crashes every time I open large files. Has been happening since yesterday.,software,low,open,2025-10-08 17:13:40
+30,Major issue: Account locked out,My account has been locked after multiple login attempts. Please help urgently.,account,high,open,2025-11-05 17:13:40
+31,Browser performance issues,Chrome browser is very slow and unresponsive. Please help urgently.,software,low,in_progress,2025-11-02 17:13:40
+32,Network printer offline,Network printer is showing offline status. This is affecting my work.,network,low,in_progress,2025-11-17 17:13:40
+33,Important: Malware detected,Antivirus detected malware on my computer. Multiple users are reporting this issue.,security,medium,in_progress,2025-10-31 17:13:40
+34,Important: Email account issues,"Cannot access my email account, shows invalid credentials.",account,medium,in_progress,2025-10-31 17:13:40
+35,CRITICAL: VPN not working,VPN connection keeps dropping every few minutes. This is affecting my work.,network,high,in_progress,2025-09-06 17:13:40
+36,Data breach concern,"Concerned about potential data breach, unusual activity noticed. Multiple users are reporting this issue.",security,low,open,2025-11-06 17:13:40
+37,Data breach concern,"Concerned about potential data breach, unusual activity noticed. Has been happening since yesterday.",security,low,open,2025-11-12 17:13:40
+38,Need help: Printer paper jam,Office printer has a paper jam that I cannot clear. This is affecting my work.,hardware,medium,open,2025-09-04 17:13:40
+39,Important: Malware detected,Antivirus detected malware on my computer. Has been happening since yesterday.,security,medium,open,2025-10-03 17:13:40
+40,New user account setup,New employee needs account setup for all systems. This is affecting my work.,account,low,open,2025-11-11 17:13:40
+41,Laptop screen flickering,My laptop screen keeps flickering and going black. Multiple users are reporting this issue.,hardware,low,in_progress,2025-10-26 17:13:40
+42,Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Please help urgently.,security,low,in_progress,2025-11-16 17:13:40
+43,New user account setup,New employee needs account setup for all systems.,account,low,open,2025-10-09 17:13:40
+44,High priority: Email account issues,"Cannot access my email account, shows invalid credentials. Has been happening since yesterday.",account,medium,open,2025-09-15 17:13:40
+45,Data breach concern,"Concerned about potential data breach, unusual activity noticed.",security,low,open,2025-09-21 17:13:40
+46,Access permission needed,Need access to the shared drive for marketing team.,account,low,open,2025-08-26 17:13:40
+47,Software license expired,AutoCAD showing license expired message. This is affecting my work.,software,low,open,2025-09-09 17:13:40
+48,New user account setup,New employee needs account setup for all systems. Please help urgently.,account,low,open,2025-10-24 17:13:40
+49,Network printer offline,Network printer is showing offline status. Multiple users are reporting this issue.,network,low,open,2025-09-18 17:13:40
+50,WiFi connection problems,Cannot connect to WiFi in conference room B. Multiple users are reporting this issue.,network,low,open,2025-10-19 17:13:40
+51,Data breach concern,"Concerned about potential data breach, unusual activity noticed. Multiple users are reporting this issue.",security,low,open,2025-11-01 17:13:40
+52,Data breach concern,"Concerned about potential data breach, unusual activity noticed.",security,low,in_progress,2025-08-24 17:13:40
+53,Malware detected,Antivirus detected malware on my computer. This is affecting my work.,security,low,open,2025-08-31 17:13:40
+54,Suspicious email received,Received a phishing email claiming to be from IT.,security,low,in_progress,2025-09-22 17:13:40
+55,Slow internet speed,"Internet is extremely slow, pages take forever to load. This is affecting my work.",network,low,open,2025-10-18 17:13:40
+56,High priority: Monitor display issues,Second monitor is not being detected by my computer. Please help urgently.,hardware,medium,resolved,2025-10-23 17:13:40
+57,System down: New user account setup,New employee needs account setup for all systems.,account,high,open,2025-10-18 17:13:40
+58,Browser performance issues,Chrome browser is very slow and unresponsive. Multiple users are reporting this issue.,software,low,in_progress,2025-10-06 17:13:40
+59,CRITICAL: Email account issues,"Cannot access my email account, shows invalid credentials. Please help urgently.",account,high,in_progress,2025-09-29 17:13:40
+60,Keyboard keys not working,Several keys on my keyboard have stopped responding. Has been happening since yesterday.,hardware,low,resolved,2025-10-23 17:13:40
+61,EMERGENCY: Monitor display issues,Second monitor is not being detected by my computer. Please help urgently.,hardware,high,resolved,2025-10-21 17:13:40
+62,Printer paper jam,Office printer has a paper jam that I cannot clear. Has been happening since yesterday.,hardware,low,in_progress,2025-09-02 17:13:40
+63,Important: Slow internet speed,"Internet is extremely slow, pages take forever to load. Please help urgently.",network,medium,resolved,2025-09-28 17:13:40
+64,Suspicious email received,Received a phishing email claiming to be from IT. Multiple users are reporting this issue.,security,low,in_progress,2025-10-23 17:13:40
+65,High priority: Laptop screen flickering,My laptop screen keeps flickering and going black. Has been happening since yesterday.,hardware,medium,open,2025-08-29 17:13:40
+66,High priority: Account locked out,My account has been locked after multiple login attempts. Has been happening since yesterday.,account,medium,resolved,2025-09-10 17:13:40
+67,Application crashing,Microsoft Excel crashes every time I open large files. Has been happening since yesterday.,software,low,open,2025-10-06 17:13:40
+68,EMERGENCY: Monitor display issues,Second monitor is not being detected by my computer. Has been happening since yesterday.,hardware,high,resolved,2025-09-25 17:13:40
+69,Email client not syncing,Outlook is not syncing my emails properly.,software,low,open,2025-09-25 17:13:40
+70,Malware detected,Antivirus detected malware on my computer. Multiple users are reporting this issue.,security,low,open,2025-10-18 17:13:40
+71,EMERGENCY: Email client not syncing,Outlook is not syncing my emails properly. This is affecting my work.,software,high,resolved,2025-10-01 17:13:40
+72,URGENT: Keyboard keys not working,Several keys on my keyboard have stopped responding.,hardware,high,open,2025-09-16 17:13:40
+73,High priority: Laptop screen flickering,My laptop screen keeps flickering and going black. Please help urgently.,hardware,medium,in_progress,2025-11-16 17:13:40
+74,High priority: Laptop screen flickering,My laptop screen keeps flickering and going black. This is affecting my work.,hardware,medium,open,2025-10-21 17:13:40
+75,Important: Keyboard keys not working,Several keys on my keyboard have stopped responding. Has been happening since yesterday.,hardware,medium,resolved,2025-08-26 17:13:40
+76,Need help: New user account setup,New employee needs account setup for all systems. This is affecting my work.,account,medium,in_progress,2025-11-13 17:13:40
+77,Email client not syncing,Outlook is not syncing my emails properly. Please help urgently.,software,low,open,2025-11-01 17:13:40
+78,Need help: Malware detected,Antivirus detected malware on my computer. Please help urgently.,security,medium,resolved,2025-11-07 17:13:40
+79,Important: Data breach concern,"Concerned about potential data breach, unusual activity noticed. Multiple users are reporting this issue.",security,medium,in_progress,2025-09-19 17:13:40
+80,Important: Email client not syncing,Outlook is not syncing my emails properly.,software,medium,open,2025-10-01 17:13:40
+81,High priority: Malware detected,Antivirus detected malware on my computer. This is affecting my work.,security,medium,resolved,2025-10-13 17:13:40
+82,Keyboard keys not working,Several keys on my keyboard have stopped responding. Please help urgently.,hardware,low,in_progress,2025-09-14 17:13:40
+83,Need help: VPN not working,VPN connection keeps dropping every few minutes. Has been happening since yesterday.,network,medium,open,2025-11-20 17:13:40
+84,Important: Suspicious email received,Received a phishing email claiming to be from IT. Multiple users are reporting this issue.,security,medium,open,2025-11-11 17:13:40
+85,Slow internet speed,"Internet is extremely slow, pages take forever to load. This is affecting my work.",network,low,open,2025-09-13 17:13:40
+86,Important: Keyboard keys not working,Several keys on my keyboard have stopped responding. This is affecting my work.,hardware,medium,open,2025-10-08 17:13:40
+87,Important: Network connectivity issues,Unable to connect to the office network from my laptop. This is affecting my work.,network,medium,in_progress,2025-10-02 17:13:40
+88,System down: Malware detected,Antivirus detected malware on my computer. Multiple users are reporting this issue.,security,high,resolved,2025-09-11 17:13:40
+89,Slow internet speed,"Internet is extremely slow, pages take forever to load. Multiple users are reporting this issue.",network,low,resolved,2025-10-11 17:13:40
+90,Security certificate error,Getting security certificate error on company website.,security,low,open,2025-09-17 17:13:40
+91,Keyboard keys not working,Several keys on my keyboard have stopped responding. Has been happening since yesterday.,hardware,low,open,2025-11-08 17:13:40
+92,Malware detected,Antivirus detected malware on my computer. Has been happening since yesterday.,security,low,in_progress,2025-11-02 17:13:40
+93,High priority: Laptop screen flickering,My laptop screen keeps flickering and going black. Has been happening since yesterday.,hardware,medium,open,2025-11-14 17:13:40
+94,High priority: Data breach concern,"Concerned about potential data breach, unusual activity noticed. Multiple users are reporting this issue.",security,medium,open,2025-09-09 17:13:40
+95,Access permission needed,Need access to the shared drive for marketing team. Multiple users are reporting this issue.,account,low,open,2025-10-23 17:13:40
+96,CRITICAL: Mouse not responding,Wireless mouse is not connecting to my computer.,hardware,high,resolved,2025-09-28 17:13:40
+97,Browser performance issues,Chrome browser is very slow and unresponsive.,software,low,resolved,2025-10-01 17:13:40
+98,CRITICAL: Network connectivity issues,Unable to connect to the office network from my laptop.,network,high,open,2025-11-17 17:13:40
+99,Software license expired,AutoCAD showing license expired message.,software,low,open,2025-10-08 17:13:40
+100,Printer paper jam,Office printer has a paper jam that I cannot clear. Multiple users are reporting this issue.,hardware,low,in_progress,2025-09-20 17:13:40
+101,Application crashing,Microsoft Excel crashes every time I open large files. Please help urgently.,software,low,open,2025-11-14 17:13:40
+102,EMERGENCY: Browser performance issues,Chrome browser is very slow and unresponsive. This is affecting my work.,software,high,open,2025-10-14 17:13:40
+103,EMERGENCY: Data breach concern,"Concerned about potential data breach, unusual activity noticed.",security,high,open,2025-11-01 17:13:40
+104,Browser performance issues,Chrome browser is very slow and unresponsive. Please help urgently.,software,low,resolved,2025-10-11 17:13:40
+105,High priority: Suspicious email received,Received a phishing email claiming to be from IT. Has been happening since yesterday.,security,medium,open,2025-09-11 17:13:40
+106,Data breach concern,"Concerned about potential data breach, unusual activity noticed. Please help urgently.",security,low,open,2025-10-16 17:13:40
+107,Important: Printer paper jam,Office printer has a paper jam that I cannot clear. Has been happening since yesterday.,hardware,medium,in_progress,2025-10-23 17:13:40
+108,Software installation error,Cannot install the updated version of Adobe Reader.,software,low,open,2025-11-16 17:13:40
+109,Email client not syncing,Outlook is not syncing my emails properly. Please help urgently.,software,low,open,2025-10-19 17:13:40
+110,Software license expired,AutoCAD showing license expired message. Multiple users are reporting this issue.,software,low,open,2025-10-20 17:13:40
+111,High priority: Application crashing,Microsoft Excel crashes every time I open large files. Has been happening since yesterday.,software,medium,resolved,2025-09-18 17:13:40
+112,Slow internet speed,"Internet is extremely slow, pages take forever to load. Has been happening since yesterday.",network,low,in_progress,2025-11-18 17:13:40
+113,Keyboard keys not working,Several keys on my keyboard have stopped responding. Has been happening since yesterday.,hardware,low,open,2025-10-27 17:13:40
+114,Access permission needed,Need access to the shared drive for marketing team. Has been happening since yesterday.,account,low,in_progress,2025-11-18 17:13:40
+115,Account locked out,My account has been locked after multiple login attempts. This is affecting my work.,account,low,open,2025-10-24 17:13:40
+116,Suspicious email received,Received a phishing email claiming to be from IT. Has been happening since yesterday.,security,low,resolved,2025-09-20 17:13:40
+117,Email account issues,"Cannot access my email account, shows invalid credentials. This is affecting my work.",account,low,resolved,2025-11-14 17:13:40
+118,Account locked out,My account has been locked after multiple login attempts. This is affecting my work.,account,low,in_progress,2025-09-21 17:13:40
+119,Email client not syncing,Outlook is not syncing my emails properly. This is affecting my work.,software,low,open,2025-09-15 17:13:40
+120,Need help: Software installation error,Cannot install the updated version of Adobe Reader. This is affecting my work.,software,medium,open,2025-09-26 17:13:40
+121,Important: Account locked out,My account has been locked after multiple login attempts. Please help urgently.,account,medium,resolved,2025-10-19 17:13:40
+122,New user account setup,New employee needs account setup for all systems.,account,low,open,2025-10-07 17:13:40
+123,Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Please help urgently.,security,low,resolved,2025-11-03 17:13:40
+124,Password reset request,I forgot my password and need to reset it.,account,low,resolved,2025-08-31 17:13:40
+125,Data breach concern,"Concerned about potential data breach, unusual activity noticed. Please help urgently.",security,low,in_progress,2025-11-05 17:13:40
+126,Major issue: VPN not working,VPN connection keeps dropping every few minutes. Has been happening since yesterday.,network,high,resolved,2025-10-23 17:13:40
+127,Important: Application crashing,Microsoft Excel crashes every time I open large files.,software,medium,in_progress,2025-10-24 17:13:40
+128,Need help: Security certificate error,Getting security certificate error on company website. This is affecting my work.,security,medium,open,2025-11-19 17:13:40
+129,Major issue: Mouse not responding,Wireless mouse is not connecting to my computer. This is affecting my work.,hardware,high,open,2025-10-23 17:13:40
+130,New user account setup,New employee needs account setup for all systems. Multiple users are reporting this issue.,account,low,in_progress,2025-09-05 17:13:40
+131,Monitor display issues,Second monitor is not being detected by my computer.,hardware,low,open,2025-11-09 17:13:40
+132,EMERGENCY: Suspicious email received,Received a phishing email claiming to be from IT. Please help urgently.,security,high,open,2025-10-31 17:13:40
+133,High priority: Email account issues,"Cannot access my email account, shows invalid credentials. Multiple users are reporting this issue.",account,medium,open,2025-08-28 17:13:40
+134,Monitor display issues,Second monitor is not being detected by my computer.,hardware,low,open,2025-09-13 17:13:40
+135,Software license expired,AutoCAD showing license expired message. This is affecting my work.,software,low,open,2025-10-16 17:13:40
+136,High priority: Keyboard keys not working,Several keys on my keyboard have stopped responding. Please help urgently.,hardware,medium,open,2025-09-20 17:13:40
+137,Security certificate error,Getting security certificate error on company website. Multiple users are reporting this issue.,security,low,open,2025-09-30 17:13:40
+138,Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. This is affecting my work.,security,low,open,2025-09-08 17:13:40
+139,Monitor display issues,Second monitor is not being detected by my computer.,hardware,low,open,2025-09-16 17:13:40
+140,Suspicious email received,Received a phishing email claiming to be from IT.,security,low,resolved,2025-10-21 17:13:40
+141,System down: Browser performance issues,Chrome browser is very slow and unresponsive. Please help urgently.,software,high,open,2025-10-26 17:13:40
+142,Need help: Security certificate error,Getting security certificate error on company website. Multiple users are reporting this issue.,security,medium,open,2025-09-14 17:13:40
+143,Access permission needed,Need access to the shared drive for marketing team. Multiple users are reporting this issue.,account,low,open,2025-09-09 17:13:40
+144,Suspicious email received,Received a phishing email claiming to be from IT. Has been happening since yesterday.,security,low,open,2025-10-25 17:13:40
+145,Laptop screen flickering,My laptop screen keeps flickering and going black. This is affecting my work.,hardware,low,in_progress,2025-10-19 17:13:40
+146,Important: Security certificate error,Getting security certificate error on company website. Please help urgently.,security,medium,open,2025-11-03 17:13:40
+147,High priority: Laptop screen flickering,My laptop screen keeps flickering and going black.,hardware,medium,open,2025-09-09 17:13:40
+148,Need help: Application crashing,Microsoft Excel crashes every time I open large files. Multiple users are reporting this issue.,software,medium,open,2025-11-18 17:13:40
+149,High priority: Account locked out,My account has been locked after multiple login attempts. Please help urgently.,account,medium,open,2025-09-06 17:13:40
+150,Malware detected,Antivirus detected malware on my computer. This is affecting my work.,security,low,open,2025-09-23 17:13:40
+151,Browser performance issues,Chrome browser is very slow and unresponsive. Has been happening since yesterday.,software,low,open,2025-10-14 17:13:40
+152,Laptop screen flickering,My laptop screen keeps flickering and going black. Multiple users are reporting this issue.,hardware,low,open,2025-09-28 17:13:40
+153,Laptop screen flickering,My laptop screen keeps flickering and going black. Please help urgently.,hardware,low,open,2025-09-19 17:13:40
+154,URGENT: Access permission needed,Need access to the shared drive for marketing team. Please help urgently.,account,high,open,2025-09-27 17:13:40
+155,High priority: Unauthorized access attempt,Multiple failed login attempts on my account from unknown location.,security,medium,open,2025-11-07 17:13:40
+156,Need help: Security certificate error,Getting security certificate error on company website. This is affecting my work.,security,medium,open,2025-11-07 17:13:40
+157,Laptop screen flickering,My laptop screen keeps flickering and going black. This is affecting my work.,hardware,low,open,2025-10-10 17:13:40
+158,Software license expired,AutoCAD showing license expired message. Has been happening since yesterday.,software,low,resolved,2025-09-25 17:13:40
+159,Important: Keyboard keys not working,Several keys on my keyboard have stopped responding.,hardware,medium,open,2025-09-26 17:13:40
+160,Need help: Software license expired,AutoCAD showing license expired message.,software,medium,open,2025-10-19 17:13:40
+161,Access permission needed,Need access to the shared drive for marketing team. This is affecting my work.,account,low,open,2025-10-18 17:13:40
+162,Important: Monitor display issues,Second monitor is not being detected by my computer. This is affecting my work.,hardware,medium,in_progress,2025-10-24 17:13:40
+163,Major issue: Email client not syncing,Outlook is not syncing my emails properly. Multiple users are reporting this issue.,software,high,resolved,2025-11-15 17:13:40
+164,VPN not working,VPN connection keeps dropping every few minutes. Has been happening since yesterday.,network,low,in_progress,2025-09-16 17:13:40
+165,Important: Laptop screen flickering,My laptop screen keeps flickering and going black. Multiple users are reporting this issue.,hardware,medium,resolved,2025-10-24 17:13:40
+166,Software license expired,AutoCAD showing license expired message. Multiple users are reporting this issue.,software,low,open,2025-11-05 17:13:40
+167,Laptop screen flickering,My laptop screen keeps flickering and going black. This is affecting my work.,hardware,low,open,2025-09-19 17:13:40
+168,URGENT: Access permission needed,Need access to the shared drive for marketing team.,account,high,open,2025-09-18 17:13:40
+169,High priority: Password reset request,I forgot my password and need to reset it. Please help urgently.,account,medium,open,2025-10-23 17:13:40
+170,Account locked out,My account has been locked after multiple login attempts.,account,low,in_progress,2025-09-10 17:13:40
+171,High priority: New user account setup,New employee needs account setup for all systems. This is affecting my work.,account,medium,resolved,2025-10-16 17:13:40
+172,Major issue: WiFi connection problems,Cannot connect to WiFi in conference room B. Multiple users are reporting this issue.,network,high,open,2025-09-18 17:13:40
+173,Printer paper jam,Office printer has a paper jam that I cannot clear. Multiple users are reporting this issue.,hardware,low,in_progress,2025-09-19 17:13:40
+174,Keyboard keys not working,Several keys on my keyboard have stopped responding. This is affecting my work.,hardware,low,in_progress,2025-10-21 17:13:40
+175,Need help: Software license expired,AutoCAD showing license expired message.,software,medium,in_progress,2025-09-04 17:13:40
+176,Account locked out,My account has been locked after multiple login attempts. Please help urgently.,account,low,open,2025-08-24 17:13:40
+177,Need help: Mouse not responding,Wireless mouse is not connecting to my computer. Please help urgently.,hardware,medium,resolved,2025-10-11 17:13:40
+178,Account locked out,My account has been locked after multiple login attempts. Multiple users are reporting this issue.,account,low,open,2025-09-08 17:13:40
+179,Important: Email client not syncing,Outlook is not syncing my emails properly.,software,medium,in_progress,2025-11-19 17:13:40
+180,System down: Email account issues,"Cannot access my email account, shows invalid credentials. Has been happening since yesterday.",account,high,resolved,2025-08-23 17:13:40
+181,URGENT: Monitor display issues,Second monitor is not being detected by my computer. This is affecting my work.,hardware,high,resolved,2025-10-12 17:13:40
+182,Mouse not responding,Wireless mouse is not connecting to my computer. Multiple users are reporting this issue.,hardware,low,open,2025-11-09 17:13:40
+183,Account locked out,My account has been locked after multiple login attempts. Please help urgently.,account,low,open,2025-10-19 17:13:40
+184,System down: Malware detected,Antivirus detected malware on my computer. Please help urgently.,security,high,open,2025-10-31 17:13:40
+185,Security certificate error,Getting security certificate error on company website. Multiple users are reporting this issue.,security,low,open,2025-09-21 17:13:40
+186,Data breach concern,"Concerned about potential data breach, unusual activity noticed. This is affecting my work.",security,low,resolved,2025-10-19 17:13:40
+187,High priority: Security certificate error,Getting security certificate error on company website. Has been happening since yesterday.,security,medium,open,2025-09-25 17:13:40
+188,Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. This is affecting my work.,security,low,open,2025-10-19 17:13:40
+189,Network connectivity issues,Unable to connect to the office network from my laptop.,network,low,open,2025-10-20 17:13:40
+190,Browser performance issues,Chrome browser is very slow and unresponsive. Has been happening since yesterday.,software,low,open,2025-10-22 17:13:40
+191,Slow internet speed,"Internet is extremely slow, pages take forever to load. This is affecting my work.",network,low,resolved,2025-11-13 17:13:40
+192,Keyboard keys not working,Several keys on my keyboard have stopped responding. Has been happening since yesterday.,hardware,low,resolved,2025-09-14 17:13:40
+193,High priority: Data breach concern,"Concerned about potential data breach, unusual activity noticed. Has been happening since yesterday.",security,medium,resolved,2025-09-06 17:13:40
+194,High priority: Access permission needed,Need access to the shared drive for marketing team. Has been happening since yesterday.,account,medium,resolved,2025-09-23 17:13:40
+195,High priority: Network printer offline,Network printer is showing offline status. Has been happening since yesterday.,network,medium,open,2025-10-30 17:13:40
+196,Need help: Software license expired,AutoCAD showing license expired message. Multiple users are reporting this issue.,software,medium,open,2025-11-10 17:13:40
+197,Important: Suspicious email received,Received a phishing email claiming to be from IT. Please help urgently.,security,medium,resolved,2025-10-16 17:13:40
+198,Browser performance issues,Chrome browser is very slow and unresponsive.,software,low,resolved,2025-11-07 17:13:40
+199,Malware detected,Antivirus detected malware on my computer. Has been happening since yesterday.,security,low,open,2025-10-29 17:13:40
+200,Access permission needed,Need access to the shared drive for marketing team. Multiple users are reporting this issue.,account,low,open,2025-09-19 17:13:40
+201,Browser performance issues,Chrome browser is very slow and unresponsive.,software,low,open,2025-10-07 17:13:40
+202,Important: Access permission needed,Need access to the shared drive for marketing team. Has been happening since yesterday.,account,medium,open,2025-10-25 17:13:40
+203,Important: Malware detected,Antivirus detected malware on my computer.,security,medium,open,2025-09-25 17:13:40
+204,Application crashing,Microsoft Excel crashes every time I open large files. Has been happening since yesterday.,software,low,open,2025-11-03 17:13:40
+205,Important: Data breach concern,"Concerned about potential data breach, unusual activity noticed. Has been happening since yesterday.",security,medium,open,2025-10-22 17:13:40
+206,Email client not syncing,Outlook is not syncing my emails properly. Please help urgently.,software,low,open,2025-10-17 17:13:40
+207,EMERGENCY: Security certificate error,Getting security certificate error on company website. Please help urgently.,security,high,open,2025-10-16 17:13:40
+208,System down: Software installation error,Cannot install the updated version of Adobe Reader. Has been happening since yesterday.,software,high,in_progress,2025-11-11 17:13:40
+209,Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Has been happening since yesterday.,security,low,in_progress,2025-10-24 17:13:40
+210,System down: Laptop screen flickering,My laptop screen keeps flickering and going black. This is affecting my work.,hardware,high,open,2025-09-05 17:13:40
+211,URGENT: Email client not syncing,Outlook is not syncing my emails properly.,software,high,open,2025-10-20 17:13:40
+212,Important: Software installation error,Cannot install the updated version of Adobe Reader. This is affecting my work.,software,medium,open,2025-10-17 17:13:40
+213,Important: Browser performance issues,Chrome browser is very slow and unresponsive. Multiple users are reporting this issue.,software,medium,open,2025-10-03 17:13:40
+214,CRITICAL: Network connectivity issues,Unable to connect to the office network from my laptop.,network,high,open,2025-10-13 17:13:40
+215,Password reset request,I forgot my password and need to reset it.,account,low,resolved,2025-10-27 17:13:40
+216,System down: Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Multiple users are reporting this issue.,security,high,open,2025-09-22 17:13:40
+217,Important: Network printer offline,Network printer is showing offline status. This is affecting my work.,network,medium,in_progress,2025-08-25 17:13:40
+218,URGENT: Mouse not responding,Wireless mouse is not connecting to my computer. Please help urgently.,hardware,high,open,2025-09-01 17:13:40
+219,System down: Network connectivity issues,Unable to connect to the office network from my laptop. Multiple users are reporting this issue.,network,high,open,2025-09-04 17:13:40
+220,Important: Access permission needed,Need access to the shared drive for marketing team.,account,medium,open,2025-09-28 17:13:40
+221,Application crashing,Microsoft Excel crashes every time I open large files. Multiple users are reporting this issue.,software,low,in_progress,2025-09-13 17:13:40
+222,Keyboard keys not working,Several keys on my keyboard have stopped responding. Multiple users are reporting this issue.,hardware,low,resolved,2025-11-13 17:13:40
+223,System down: Browser performance issues,Chrome browser is very slow and unresponsive. Please help urgently.,software,high,in_progress,2025-10-04 17:13:40
+224,Malware detected,Antivirus detected malware on my computer. This is affecting my work.,security,low,open,2025-11-02 17:13:40
+225,Need help: VPN not working,VPN connection keeps dropping every few minutes. Multiple users are reporting this issue.,network,medium,in_progress,2025-08-26 17:13:40
+226,Data breach concern,"Concerned about potential data breach, unusual activity noticed. This is affecting my work.",security,low,open,2025-10-14 17:13:40
+227,Malware detected,Antivirus detected malware on my computer. Has been happening since yesterday.,security,low,open,2025-10-20 17:13:40
+228,Data breach concern,"Concerned about potential data breach, unusual activity noticed.",security,low,open,2025-11-15 17:13:40
+229,Application crashing,Microsoft Excel crashes every time I open large files.,software,low,resolved,2025-08-22 17:13:40
+230,Mouse not responding,Wireless mouse is not connecting to my computer. Has been happening since yesterday.,hardware,low,open,2025-11-18 17:13:40
+231,URGENT: Data breach concern,"Concerned about potential data breach, unusual activity noticed. This is affecting my work.",security,high,in_progress,2025-11-18 17:13:40
+232,CRITICAL: Monitor display issues,Second monitor is not being detected by my computer.,hardware,high,open,2025-10-09 17:13:40
+233,High priority: Keyboard keys not working,Several keys on my keyboard have stopped responding. Multiple users are reporting this issue.,hardware,medium,open,2025-11-15 17:13:40
+234,Monitor display issues,Second monitor is not being detected by my computer. This is affecting my work.,hardware,low,open,2025-11-04 17:13:40
+235,Need help: Software installation error,Cannot install the updated version of Adobe Reader. Multiple users are reporting this issue.,software,medium,open,2025-08-28 17:13:40
+236,Email account issues,"Cannot access my email account, shows invalid credentials. Has been happening since yesterday.",account,low,in_progress,2025-10-16 17:13:40
+237,High priority: Keyboard keys not working,Several keys on my keyboard have stopped responding. This is affecting my work.,hardware,medium,open,2025-09-17 17:13:40
+238,URGENT: Laptop screen flickering,My laptop screen keeps flickering and going black. Has been happening since yesterday.,hardware,high,resolved,2025-09-19 17:13:40
+239,Printer paper jam,Office printer has a paper jam that I cannot clear. Has been happening since yesterday.,hardware,low,resolved,2025-10-02 17:13:40
+240,Important: Security certificate error,Getting security certificate error on company website. This is affecting my work.,security,medium,open,2025-09-30 17:13:40
+241,Laptop screen flickering,My laptop screen keeps flickering and going black. Has been happening since yesterday.,hardware,low,resolved,2025-11-07 17:13:40
+242,System down: Malware detected,Antivirus detected malware on my computer. Multiple users are reporting this issue.,security,high,resolved,2025-08-26 17:13:40
+243,Malware detected,Antivirus detected malware on my computer. Please help urgently.,security,low,in_progress,2025-10-15 17:13:40
+244,CRITICAL: Unauthorized access attempt,Multiple failed login attempts on my account from unknown location.,security,high,open,2025-10-25 17:13:40
+245,Password reset request,I forgot my password and need to reset it. Has been happening since yesterday.,account,low,in_progress,2025-11-12 17:13:40
+246,WiFi connection problems,Cannot connect to WiFi in conference room B. Has been happening since yesterday.,network,low,open,2025-08-31 17:13:40
+247,System down: Access permission needed,Need access to the shared drive for marketing team. Has been happening since yesterday.,account,high,open,2025-10-19 17:13:40
+248,High priority: Unauthorized access attempt,Multiple failed login attempts on my account from unknown location.,security,medium,in_progress,2025-09-30 17:13:40
+249,Need help: Password reset request,I forgot my password and need to reset it.,account,medium,resolved,2025-10-31 17:13:40
+250,Software installation error,Cannot install the updated version of Adobe Reader. Please help urgently.,software,low,resolved,2025-10-22 17:13:40
+251,Important: Browser performance issues,Chrome browser is very slow and unresponsive. Has been happening since yesterday.,software,medium,resolved,2025-10-27 17:13:40
+252,Email account issues,"Cannot access my email account, shows invalid credentials.",account,low,open,2025-10-25 17:13:40
+253,Important: Network printer offline,Network printer is showing offline status. Has been happening since yesterday.,network,medium,resolved,2025-10-12 17:13:40
+254,Major issue: Email client not syncing,Outlook is not syncing my emails properly. Multiple users are reporting this issue.,software,high,open,2025-09-20 17:13:40
+255,Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Has been happening since yesterday.,security,low,open,2025-10-10 17:13:40
+256,Important: VPN not working,VPN connection keeps dropping every few minutes. This is affecting my work.,network,medium,in_progress,2025-10-08 17:13:40
+257,High priority: Malware detected,Antivirus detected malware on my computer. Please help urgently.,security,medium,open,2025-10-05 17:13:40
+258,Monitor display issues,Second monitor is not being detected by my computer. This is affecting my work.,hardware,low,open,2025-11-06 17:13:40
+259,High priority: New user account setup,New employee needs account setup for all systems. Multiple users are reporting this issue.,account,medium,open,2025-10-07 17:13:40
+260,System down: Monitor display issues,Second monitor is not being detected by my computer. Please help urgently.,hardware,high,open,2025-10-12 17:13:40
+261,Mouse not responding,Wireless mouse is not connecting to my computer. Has been happening since yesterday.,hardware,low,resolved,2025-10-24 17:13:40
+262,Network printer offline,Network printer is showing offline status. This is affecting my work.,network,low,open,2025-09-24 17:13:40
+263,Email account issues,"Cannot access my email account, shows invalid credentials. Has been happening since yesterday.",account,low,resolved,2025-11-10 17:13:40
+264,Application crashing,Microsoft Excel crashes every time I open large files. Multiple users are reporting this issue.,software,low,open,2025-09-23 17:13:40
+265,URGENT: Software license expired,AutoCAD showing license expired message. This is affecting my work.,software,high,open,2025-11-06 17:13:40
+266,Password reset request,I forgot my password and need to reset it. This is affecting my work.,account,low,in_progress,2025-11-04 17:13:40
+267,Important: Data breach concern,"Concerned about potential data breach, unusual activity noticed. Please help urgently.",security,medium,open,2025-11-15 17:13:40
+268,Email account issues,"Cannot access my email account, shows invalid credentials. Has been happening since yesterday.",account,low,in_progress,2025-09-02 17:13:40
+269,Browser performance issues,Chrome browser is very slow and unresponsive.,software,low,open,2025-10-04 17:13:40
+270,EMERGENCY: Browser performance issues,Chrome browser is very slow and unresponsive.,software,high,open,2025-10-27 17:13:40
+271,High priority: Email client not syncing,Outlook is not syncing my emails properly. This is affecting my work.,software,medium,open,2025-10-28 17:13:40
+272,New user account setup,New employee needs account setup for all systems. Multiple users are reporting this issue.,account,low,open,2025-11-06 17:13:40
+273,New user account setup,New employee needs account setup for all systems. Please help urgently.,account,low,open,2025-10-26 17:13:40
+274,Security certificate error,Getting security certificate error on company website. Please help urgently.,security,low,in_progress,2025-11-09 17:13:40
+275,Software installation error,Cannot install the updated version of Adobe Reader. This is affecting my work.,software,low,in_progress,2025-11-09 17:13:40
+276,High priority: Laptop screen flickering,My laptop screen keeps flickering and going black. Multiple users are reporting this issue.,hardware,medium,open,2025-09-01 17:13:40
+277,High priority: Mouse not responding,Wireless mouse is not connecting to my computer. This is affecting my work.,hardware,medium,open,2025-10-27 17:13:40
+278,Account locked out,My account has been locked after multiple login attempts. Please help urgently.,account,low,open,2025-08-28 17:13:40
+279,Email account issues,"Cannot access my email account, shows invalid credentials.",account,low,resolved,2025-09-26 17:13:40
+280,Password reset request,I forgot my password and need to reset it. Please help urgently.,account,low,open,2025-11-07 17:13:40
+281,Important: Unauthorized access attempt,Multiple failed login attempts on my account from unknown location.,security,medium,resolved,2025-09-22 17:13:40
+282,Important: Monitor display issues,Second monitor is not being detected by my computer. This is affecting my work.,hardware,medium,open,2025-11-14 17:13:40
+283,Slow internet speed,"Internet is extremely slow, pages take forever to load. This is affecting my work.",network,low,open,2025-09-20 17:13:40
+284,Need help: VPN not working,VPN connection keeps dropping every few minutes. Please help urgently.,network,medium,resolved,2025-11-03 17:13:40
+285,Need help: Malware detected,Antivirus detected malware on my computer. Multiple users are reporting this issue.,security,medium,resolved,2025-09-30 17:13:40
+286,High priority: New user account setup,New employee needs account setup for all systems. This is affecting my work.,account,medium,in_progress,2025-10-10 17:13:40
+287,High priority: Malware detected,Antivirus detected malware on my computer. This is affecting my work.,security,medium,open,2025-10-11 17:13:40
+288,Need help: Network printer offline,Network printer is showing offline status. Multiple users are reporting this issue.,network,medium,resolved,2025-10-29 17:13:40
+289,Application crashing,Microsoft Excel crashes every time I open large files. Please help urgently.,software,low,open,2025-10-16 17:13:40
+290,Important: Laptop screen flickering,My laptop screen keeps flickering and going black.,hardware,medium,open,2025-10-06 17:13:40
+291,Browser performance issues,Chrome browser is very slow and unresponsive. This is affecting my work.,software,low,open,2025-08-27 17:13:40
+292,Network printer offline,Network printer is showing offline status. This is affecting my work.,network,low,open,2025-11-04 17:13:40
+293,Important: Email account issues,"Cannot access my email account, shows invalid credentials. This is affecting my work.",account,medium,in_progress,2025-09-23 17:13:40
+294,VPN not working,VPN connection keeps dropping every few minutes. Multiple users are reporting this issue.,network,low,in_progress,2025-09-18 17:13:40
+295,Printer paper jam,Office printer has a paper jam that I cannot clear. Please help urgently.,hardware,low,in_progress,2025-11-01 17:13:40
+296,Malware detected,Antivirus detected malware on my computer. Please help urgently.,security,low,in_progress,2025-11-01 17:13:40
+297,Email client not syncing,Outlook is not syncing my emails properly. Please help urgently.,software,low,resolved,2025-11-07 17:13:40
+298,Major issue: Account locked out,My account has been locked after multiple login attempts. Please help urgently.,account,high,in_progress,2025-08-25 17:13:40
+299,New user account setup,New employee needs account setup for all systems. Please help urgently.,account,low,in_progress,2025-09-30 17:13:40
+300,VPN not working,VPN connection keeps dropping every few minutes. Has been happening since yesterday.,network,low,in_progress,2025-11-02 17:13:40
+301,Important: Laptop screen flickering,My laptop screen keeps flickering and going black. Has been happening since yesterday.,hardware,medium,open,2025-11-13 17:13:40
+302,High priority: Browser performance issues,Chrome browser is very slow and unresponsive. Multiple users are reporting this issue.,software,medium,resolved,2025-09-15 17:13:40
+303,Password reset request,I forgot my password and need to reset it.,account,low,in_progress,2025-10-15 17:13:40
+304,Need help: Printer paper jam,Office printer has a paper jam that I cannot clear. Please help urgently.,hardware,medium,open,2025-08-29 17:13:40
+305,EMERGENCY: Software installation error,Cannot install the updated version of Adobe Reader. Multiple users are reporting this issue.,software,high,open,2025-08-26 17:13:40
+306,System down: Software installation error,Cannot install the updated version of Adobe Reader. This is affecting my work.,software,high,open,2025-08-23 17:13:40
+307,Software installation error,Cannot install the updated version of Adobe Reader. Please help urgently.,software,low,in_progress,2025-09-14 17:13:40
+308,URGENT: Browser performance issues,Chrome browser is very slow and unresponsive. Has been happening since yesterday.,software,high,resolved,2025-09-14 17:13:40
+309,System down: Password reset request,I forgot my password and need to reset it. Multiple users are reporting this issue.,account,high,open,2025-10-06 17:13:40
+310,Need help: Software installation error,Cannot install the updated version of Adobe Reader. Multiple users are reporting this issue.,software,medium,open,2025-09-19 17:13:40
+311,Important: Printer paper jam,Office printer has a paper jam that I cannot clear. Multiple users are reporting this issue.,hardware,medium,open,2025-10-04 17:13:40
+312,High priority: Account locked out,My account has been locked after multiple login attempts. Please help urgently.,account,medium,open,2025-11-03 17:13:40
+313,Printer paper jam,Office printer has a paper jam that I cannot clear.,hardware,low,open,2025-09-18 17:13:40
+314,Data breach concern,"Concerned about potential data breach, unusual activity noticed. Multiple users are reporting this issue.",security,low,resolved,2025-09-14 17:13:40
+315,Email account issues,"Cannot access my email account, shows invalid credentials. This is affecting my work.",account,low,open,2025-09-18 17:13:40
+316,High priority: Account locked out,My account has been locked after multiple login attempts. Multiple users are reporting this issue.,account,medium,in_progress,2025-09-19 17:13:40
+317,Important: Laptop screen flickering,My laptop screen keeps flickering and going black.,hardware,medium,in_progress,2025-09-02 17:13:40
+318,Major issue: Network connectivity issues,Unable to connect to the office network from my laptop.,network,high,resolved,2025-09-29 17:13:40
+319,Need help: Security certificate error,Getting security certificate error on company website.,security,medium,in_progress,2025-11-17 17:13:40
+320,Important: Data breach concern,"Concerned about potential data breach, unusual activity noticed. Please help urgently.",security,medium,open,2025-10-17 17:13:40
+321,Unauthorized access attempt,Multiple failed login attempts on my account from unknown location.,security,low,in_progress,2025-10-01 17:13:40
+322,Important: Software installation error,Cannot install the updated version of Adobe Reader.,software,medium,resolved,2025-10-17 17:13:40
+323,URGENT: Software license expired,AutoCAD showing license expired message. Multiple users are reporting this issue.,software,high,open,2025-11-17 17:13:40
+324,New user account setup,New employee needs account setup for all systems. Please help urgently.,account,low,resolved,2025-10-15 17:13:40
+325,Mouse not responding,Wireless mouse is not connecting to my computer. Multiple users are reporting this issue.,hardware,low,open,2025-10-20 17:13:40
+326,New user account setup,New employee needs account setup for all systems. Has been happening since yesterday.,account,low,in_progress,2025-11-09 17:13:40
+327,Network connectivity issues,Unable to connect to the office network from my laptop. Has been happening since yesterday.,network,low,open,2025-10-06 17:13:40
+328,CRITICAL: Email client not syncing,Outlook is not syncing my emails properly. Multiple users are reporting this issue.,software,high,resolved,2025-10-24 17:13:40
+329,Security certificate error,Getting security certificate error on company website.,security,low,resolved,2025-08-24 17:13:40
+330,High priority: Network connectivity issues,Unable to connect to the office network from my laptop.,network,medium,resolved,2025-09-20 17:13:40
+331,Suspicious email received,Received a phishing email claiming to be from IT. Multiple users are reporting this issue.,security,low,open,2025-10-08 17:13:40
+332,Email client not syncing,Outlook is not syncing my emails properly. Multiple users are reporting this issue.,software,low,resolved,2025-11-19 17:13:40
+333,Keyboard keys not working,Several keys on my keyboard have stopped responding. Please help urgently.,hardware,low,open,2025-10-18 17:13:40
+334,Laptop screen flickering,My laptop screen keeps flickering and going black. This is affecting my work.,hardware,low,open,2025-09-24 17:13:40
+335,Access permission needed,Need access to the shared drive for marketing team.,account,low,open,2025-08-25 17:13:40
+336,Network connectivity issues,Unable to connect to the office network from my laptop. This is affecting my work.,network,low,resolved,2025-09-21 17:13:40
+337,Slow internet speed,"Internet is extremely slow, pages take forever to load. Has been happening since yesterday.",network,low,open,2025-08-25 17:13:40
+338,High priority: Application crashing,Microsoft Excel crashes every time I open large files. Please help urgently.,software,medium,open,2025-11-02 17:13:40
+339,Network printer offline,Network printer is showing offline status. Multiple users are reporting this issue.,network,low,open,2025-10-18 17:13:40
+340,Software installation error,Cannot install the updated version of Adobe Reader. Has been happening since yesterday.,software,low,in_progress,2025-08-31 17:13:40
+341,Malware detected,Antivirus detected malware on my computer. Has been happening since yesterday.,security,low,open,2025-10-26 17:13:40
+342,Slow internet speed,"Internet is extremely slow, pages take forever to load. Multiple users are reporting this issue.",network,low,open,2025-10-25 17:13:40
+343,Need help: Security certificate error,Getting security certificate error on company website. Has been happening since yesterday.,security,medium,in_progress,2025-09-27 17:13:40
+344,EMERGENCY: New user account setup,New employee needs account setup for all systems. This is affecting my work.,account,high,open,2025-10-24 17:13:40
+345,Password reset request,I forgot my password and need to reset it. Has been happening since yesterday.,account,low,resolved,2025-10-18 17:13:40
+346,Laptop screen flickering,My laptop screen keeps flickering and going black. Multiple users are reporting this issue.,hardware,low,open,2025-09-03 17:13:40
+347,New user account setup,New employee needs account setup for all systems. Please help urgently.,account,low,open,2025-09-13 17:13:40
+348,Important: Password reset request,I forgot my password and need to reset it.,account,medium,in_progress,2025-09-18 17:13:40
+349,Monitor display issues,Second monitor is not being detected by my computer. Please help urgently.,hardware,low,open,2025-11-19 17:13:40
+350,Printer paper jam,Office printer has a paper jam that I cannot clear. Has been happening since yesterday.,hardware,low,in_progress,2025-10-11 17:13:40
+351,Monitor display issues,Second monitor is not being detected by my computer. Multiple users are reporting this issue.,hardware,low,in_progress,2025-11-14 17:13:40
+352,Important: Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Multiple users are reporting this issue.,security,medium,resolved,2025-11-20 17:13:40
+353,Need help: Application crashing,Microsoft Excel crashes every time I open large files. Please help urgently.,software,medium,open,2025-11-03 17:13:40
+354,Need help: Application crashing,Microsoft Excel crashes every time I open large files.,software,medium,open,2025-09-02 17:13:40
+355,Printer paper jam,Office printer has a paper jam that I cannot clear. Multiple users are reporting this issue.,hardware,low,in_progress,2025-11-02 17:13:40
+356,WiFi connection problems,Cannot connect to WiFi in conference room B.,network,low,open,2025-10-05 17:13:40
+357,Important: Monitor display issues,Second monitor is not being detected by my computer. Please help urgently.,hardware,medium,open,2025-10-12 17:13:40
+358,Slow internet speed,"Internet is extremely slow, pages take forever to load. Multiple users are reporting this issue.",network,low,open,2025-09-20 17:13:40
+359,New user account setup,New employee needs account setup for all systems. This is affecting my work.,account,low,resolved,2025-11-18 17:13:40
+360,Important: New user account setup,New employee needs account setup for all systems. This is affecting my work.,account,medium,open,2025-09-06 17:13:40
+361,System down: Laptop screen flickering,My laptop screen keeps flickering and going black.,hardware,high,open,2025-11-03 17:13:40
+362,Need help: Email account issues,"Cannot access my email account, shows invalid credentials. Multiple users are reporting this issue.",account,medium,in_progress,2025-10-24 17:13:40
+363,Suspicious email received,Received a phishing email claiming to be from IT.,security,low,open,2025-09-15 17:13:40
+364,Access permission needed,Need access to the shared drive for marketing team. Has been happening since yesterday.,account,low,open,2025-10-11 17:13:40
+365,Monitor display issues,Second monitor is not being detected by my computer.,hardware,low,open,2025-09-15 17:13:40
+366,Password reset request,I forgot my password and need to reset it.,account,low,in_progress,2025-10-28 17:13:40
+367,Major issue: Mouse not responding,Wireless mouse is not connecting to my computer.,hardware,high,open,2025-11-19 17:13:40
+368,Browser performance issues,Chrome browser is very slow and unresponsive. Please help urgently.,software,low,in_progress,2025-10-13 17:13:40
+369,High priority: Mouse not responding,Wireless mouse is not connecting to my computer. Please help urgently.,hardware,medium,in_progress,2025-10-24 17:13:40
+370,Important: Mouse not responding,Wireless mouse is not connecting to my computer. Has been happening since yesterday.,hardware,medium,in_progress,2025-09-02 17:13:40
+371,Malware detected,Antivirus detected malware on my computer. Has been happening since yesterday.,security,low,in_progress,2025-10-13 17:13:40
+372,Major issue: Email client not syncing,Outlook is not syncing my emails properly. Please help urgently.,software,high,open,2025-10-03 17:13:40
+373,Need help: Keyboard keys not working,Several keys on my keyboard have stopped responding. This is affecting my work.,hardware,medium,resolved,2025-09-18 17:13:40
+374,Network printer offline,Network printer is showing offline status. Please help urgently.,network,low,open,2025-09-16 17:13:40
+375,Printer paper jam,Office printer has a paper jam that I cannot clear. Has been happening since yesterday.,hardware,low,open,2025-09-19 17:13:40
+376,Password reset request,I forgot my password and need to reset it. This is affecting my work.,account,low,open,2025-10-25 17:13:40
+377,Email client not syncing,Outlook is not syncing my emails properly.,software,low,open,2025-10-26 17:13:40
+378,High priority: Email client not syncing,Outlook is not syncing my emails properly.,software,medium,open,2025-11-05 17:13:40
+379,Need help: New user account setup,New employee needs account setup for all systems.,account,medium,open,2025-11-05 17:13:40
+380,Mouse not responding,Wireless mouse is not connecting to my computer. Please help urgently.,hardware,low,open,2025-11-14 17:13:40
+381,Important: Mouse not responding,Wireless mouse is not connecting to my computer. This is affecting my work.,hardware,medium,open,2025-08-28 17:13:40
+382,Important: Slow internet speed,"Internet is extremely slow, pages take forever to load. Multiple users are reporting this issue.",network,medium,open,2025-10-22 17:13:40
+383,High priority: New user account setup,New employee needs account setup for all systems. Please help urgently.,account,medium,resolved,2025-10-24 17:13:40
+384,System down: VPN not working,VPN connection keeps dropping every few minutes. Please help urgently.,network,high,resolved,2025-10-02 17:13:40
+385,Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Please help urgently.,security,low,open,2025-11-10 17:13:40
+386,Malware detected,Antivirus detected malware on my computer. This is affecting my work.,security,low,in_progress,2025-09-18 17:13:40
+387,WiFi connection problems,Cannot connect to WiFi in conference room B. Multiple users are reporting this issue.,network,low,in_progress,2025-11-09 17:13:40
+388,Major issue: New user account setup,New employee needs account setup for all systems. This is affecting my work.,account,high,open,2025-10-01 17:13:40
+389,High priority: Monitor display issues,Second monitor is not being detected by my computer. Has been happening since yesterday.,hardware,medium,in_progress,2025-09-27 17:13:40
+390,Important: WiFi connection problems,Cannot connect to WiFi in conference room B. Please help urgently.,network,medium,open,2025-11-08 17:13:40
+391,Password reset request,I forgot my password and need to reset it. Multiple users are reporting this issue.,account,low,open,2025-10-15 17:13:40
+392,Malware detected,Antivirus detected malware on my computer.,security,low,resolved,2025-08-29 17:13:40
+393,Major issue: Malware detected,Antivirus detected malware on my computer. This is affecting my work.,security,high,open,2025-10-26 17:13:40
+394,Email account issues,"Cannot access my email account, shows invalid credentials. Has been happening since yesterday.",account,low,resolved,2025-09-04 17:13:40
+395,Application crashing,Microsoft Excel crashes every time I open large files. Multiple users are reporting this issue.,software,low,open,2025-10-01 17:13:40
+396,Printer paper jam,Office printer has a paper jam that I cannot clear. Please help urgently.,hardware,low,open,2025-09-21 17:13:40
+397,Monitor display issues,Second monitor is not being detected by my computer. Multiple users are reporting this issue.,hardware,low,open,2025-10-03 17:13:40
+398,Important: Application crashing,Microsoft Excel crashes every time I open large files.,software,medium,in_progress,2025-09-08 17:13:40
+399,Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. This is affecting my work.,security,low,open,2025-08-23 17:13:40
+400,Need help: Account locked out,My account has been locked after multiple login attempts. Please help urgently.,account,medium,resolved,2025-11-19 17:13:40
+401,WiFi connection problems,Cannot connect to WiFi in conference room B. Please help urgently.,network,low,resolved,2025-11-19 17:13:40
+402,Account locked out,My account has been locked after multiple login attempts. Multiple users are reporting this issue.,account,low,open,2025-09-03 17:13:40
+403,Major issue: Password reset request,I forgot my password and need to reset it. Multiple users are reporting this issue.,account,high,open,2025-11-14 17:13:40
+404,New user account setup,New employee needs account setup for all systems. Please help urgently.,account,low,in_progress,2025-11-10 17:13:40
+405,Password reset request,I forgot my password and need to reset it. Has been happening since yesterday.,account,low,open,2025-09-11 17:13:40
+406,Need help: Application crashing,Microsoft Excel crashes every time I open large files. Multiple users are reporting this issue.,software,medium,open,2025-11-01 17:13:40
+407,Password reset request,I forgot my password and need to reset it. Has been happening since yesterday.,account,low,open,2025-08-24 17:13:40
+408,Malware detected,Antivirus detected malware on my computer. Has been happening since yesterday.,security,low,open,2025-11-11 17:13:40
+409,CRITICAL: Software license expired,AutoCAD showing license expired message. Multiple users are reporting this issue.,software,high,in_progress,2025-10-16 17:13:40
+410,Data breach concern,"Concerned about potential data breach, unusual activity noticed. Has been happening since yesterday.",security,low,in_progress,2025-09-16 17:13:40
+411,Important: Password reset request,I forgot my password and need to reset it. Multiple users are reporting this issue.,account,medium,open,2025-09-11 17:13:40
+412,Security certificate error,Getting security certificate error on company website. This is affecting my work.,security,low,open,2025-09-17 17:13:40
+413,Need help: Network connectivity issues,Unable to connect to the office network from my laptop. This is affecting my work.,network,medium,open,2025-11-16 17:13:40
+414,WiFi connection problems,Cannot connect to WiFi in conference room B. Please help urgently.,network,low,open,2025-09-09 17:13:40
+415,Malware detected,Antivirus detected malware on my computer. This is affecting my work.,security,low,resolved,2025-11-05 17:13:40
+416,Keyboard keys not working,Several keys on my keyboard have stopped responding. Please help urgently.,hardware,low,open,2025-10-09 17:13:40
+417,Security certificate error,Getting security certificate error on company website. This is affecting my work.,security,low,open,2025-09-17 17:13:40
+418,Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. This is affecting my work.,security,low,open,2025-08-22 17:13:40
+419,Network printer offline,Network printer is showing offline status. Please help urgently.,network,low,in_progress,2025-08-29 17:13:40
+420,Email client not syncing,Outlook is not syncing my emails properly. Has been happening since yesterday.,software,low,open,2025-11-12 17:13:40
+421,Keyboard keys not working,Several keys on my keyboard have stopped responding. Please help urgently.,hardware,low,in_progress,2025-08-25 17:13:40
+422,Security certificate error,Getting security certificate error on company website. Has been happening since yesterday.,security,low,resolved,2025-11-06 17:13:40
+423,High priority: Malware detected,Antivirus detected malware on my computer.,security,medium,open,2025-08-24 17:13:40
+424,Keyboard keys not working,Several keys on my keyboard have stopped responding. Multiple users are reporting this issue.,hardware,low,in_progress,2025-10-30 17:13:40
+425,System down: Suspicious email received,Received a phishing email claiming to be from IT. This is affecting my work.,security,high,open,2025-10-17 17:13:40
+426,Need help: Data breach concern,"Concerned about potential data breach, unusual activity noticed.",security,medium,in_progress,2025-11-17 17:13:40
+427,System down: Data breach concern,"Concerned about potential data breach, unusual activity noticed. This is affecting my work.",security,high,open,2025-10-14 17:13:40
+428,Need help: Monitor display issues,Second monitor is not being detected by my computer. Please help urgently.,hardware,medium,open,2025-09-23 17:13:40
+429,High priority: New user account setup,New employee needs account setup for all systems.,account,medium,open,2025-09-05 17:13:40
+430,Major issue: Data breach concern,"Concerned about potential data breach, unusual activity noticed. Please help urgently.",security,high,open,2025-09-29 17:13:40
+431,Monitor display issues,Second monitor is not being detected by my computer. This is affecting my work.,hardware,low,resolved,2025-11-04 17:13:40
+432,Account locked out,My account has been locked after multiple login attempts. This is affecting my work.,account,low,open,2025-09-13 17:13:40
+433,Important: New user account setup,New employee needs account setup for all systems.,account,medium,open,2025-11-14 17:13:40
+434,Access permission needed,Need access to the shared drive for marketing team. Multiple users are reporting this issue.,account,low,open,2025-09-16 17:13:40
+435,WiFi connection problems,Cannot connect to WiFi in conference room B.,network,low,open,2025-09-13 17:13:40
+436,VPN not working,VPN connection keeps dropping every few minutes. Please help urgently.,network,low,open,2025-11-01 17:13:40
+437,Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Please help urgently.,security,low,resolved,2025-09-18 17:13:40
+438,URGENT: Browser performance issues,Chrome browser is very slow and unresponsive.,software,high,open,2025-08-30 17:13:40
+439,Slow internet speed,"Internet is extremely slow, pages take forever to load. This is affecting my work.",network,low,open,2025-09-16 17:13:40
+440,Browser performance issues,Chrome browser is very slow and unresponsive. Please help urgently.,software,low,open,2025-11-03 17:13:40
+441,Password reset request,I forgot my password and need to reset it. Please help urgently.,account,low,open,2025-08-25 17:13:40
+442,WiFi connection problems,Cannot connect to WiFi in conference room B.,network,low,open,2025-11-06 17:13:40
+443,WiFi connection problems,Cannot connect to WiFi in conference room B. Multiple users are reporting this issue.,network,low,open,2025-09-20 17:13:40
+444,Laptop screen flickering,My laptop screen keeps flickering and going black. Please help urgently.,hardware,low,in_progress,2025-09-20 17:13:40
+445,Need help: Security certificate error,Getting security certificate error on company website. Has been happening since yesterday.,security,medium,open,2025-09-25 17:13:40
+446,Network connectivity issues,Unable to connect to the office network from my laptop. Multiple users are reporting this issue.,network,low,open,2025-09-10 17:13:40
+447,Keyboard keys not working,Several keys on my keyboard have stopped responding. Multiple users are reporting this issue.,hardware,low,open,2025-11-01 17:13:40
+448,Security certificate error,Getting security certificate error on company website.,security,low,resolved,2025-09-06 17:13:40
+449,High priority: Network printer offline,Network printer is showing offline status. Please help urgently.,network,medium,open,2025-10-06 17:13:40
+450,Keyboard keys not working,Several keys on my keyboard have stopped responding.,hardware,low,open,2025-10-07 17:13:40
+451,System down: WiFi connection problems,Cannot connect to WiFi in conference room B. Multiple users are reporting this issue.,network,high,open,2025-11-04 17:13:40
+452,CRITICAL: Email account issues,"Cannot access my email account, shows invalid credentials. Has been happening since yesterday.",account,high,open,2025-09-17 17:13:40
+453,High priority: Slow internet speed,"Internet is extremely slow, pages take forever to load. Has been happening since yesterday.",network,medium,open,2025-09-15 17:13:40
+454,Software installation error,Cannot install the updated version of Adobe Reader. Multiple users are reporting this issue.,software,low,resolved,2025-10-27 17:13:40
+455,Important: Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Has been happening since yesterday.,security,medium,open,2025-10-20 17:13:40
+456,EMERGENCY: Account locked out,My account has been locked after multiple login attempts. This is affecting my work.,account,high,open,2025-09-28 17:13:40
+457,Email client not syncing,Outlook is not syncing my emails properly. Has been happening since yesterday.,software,low,open,2025-08-27 17:13:40
+458,URGENT: Slow internet speed,"Internet is extremely slow, pages take forever to load. Has been happening since yesterday.",network,high,in_progress,2025-10-04 17:13:40
+459,Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Please help urgently.,security,low,resolved,2025-11-14 17:13:40
+460,Email client not syncing,Outlook is not syncing my emails properly. Please help urgently.,software,low,in_progress,2025-10-14 17:13:40
+461,Data breach concern,"Concerned about potential data breach, unusual activity noticed. Please help urgently.",security,low,resolved,2025-11-14 17:13:40
+462,Email client not syncing,Outlook is not syncing my emails properly. Has been happening since yesterday.,software,low,resolved,2025-11-13 17:13:40
+463,New user account setup,New employee needs account setup for all systems. Multiple users are reporting this issue.,account,low,resolved,2025-10-02 17:13:40
+464,Important: Suspicious email received,Received a phishing email claiming to be from IT. This is affecting my work.,security,medium,open,2025-08-29 17:13:40
+465,Mouse not responding,Wireless mouse is not connecting to my computer. This is affecting my work.,hardware,low,resolved,2025-11-15 17:13:40
+466,Slow internet speed,"Internet is extremely slow, pages take forever to load. Please help urgently.",network,low,open,2025-11-18 17:13:40
+467,VPN not working,VPN connection keeps dropping every few minutes. Has been happening since yesterday.,network,low,open,2025-09-26 17:13:40
+468,Major issue: Application crashing,Microsoft Excel crashes every time I open large files. This is affecting my work.,software,high,open,2025-08-27 17:13:40
+469,Need help: New user account setup,New employee needs account setup for all systems. This is affecting my work.,account,medium,open,2025-08-28 17:13:40
+470,Password reset request,I forgot my password and need to reset it. Multiple users are reporting this issue.,account,low,resolved,2025-09-09 17:13:40
+471,Browser performance issues,Chrome browser is very slow and unresponsive.,software,low,open,2025-08-24 17:13:40
+472,High priority: Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. This is affecting my work.,security,medium,open,2025-10-27 17:13:40
+473,Application crashing,Microsoft Excel crashes every time I open large files. Has been happening since yesterday.,software,low,open,2025-09-16 17:13:40
+474,System down: Account locked out,My account has been locked after multiple login attempts. Has been happening since yesterday.,account,high,resolved,2025-10-06 17:13:40
+475,Browser performance issues,Chrome browser is very slow and unresponsive.,software,low,open,2025-08-28 17:13:40
+476,Data breach concern,"Concerned about potential data breach, unusual activity noticed. Please help urgently.",security,low,open,2025-09-03 17:13:40
+477,Network printer offline,Network printer is showing offline status. This is affecting my work.,network,low,open,2025-11-07 17:13:40
+478,High priority: Keyboard keys not working,Several keys on my keyboard have stopped responding. Multiple users are reporting this issue.,hardware,medium,open,2025-10-17 17:13:40
+479,URGENT: Laptop screen flickering,My laptop screen keeps flickering and going black. This is affecting my work.,hardware,high,resolved,2025-10-03 17:13:40
+480,Network printer offline,Network printer is showing offline status. Has been happening since yesterday.,network,low,open,2025-10-26 17:13:40
+481,Network connectivity issues,Unable to connect to the office network from my laptop. Multiple users are reporting this issue.,network,low,in_progress,2025-10-31 17:13:40
+482,Software installation error,Cannot install the updated version of Adobe Reader. Multiple users are reporting this issue.,software,low,open,2025-09-22 17:13:40
+483,High priority: Data breach concern,"Concerned about potential data breach, unusual activity noticed. Has been happening since yesterday.",security,medium,open,2025-09-22 17:13:40
+484,WiFi connection problems,Cannot connect to WiFi in conference room B. Please help urgently.,network,low,open,2025-10-03 17:13:40
+485,Important: Password reset request,I forgot my password and need to reset it.,account,medium,resolved,2025-09-23 17:13:40
+486,New user account setup,New employee needs account setup for all systems.,account,low,in_progress,2025-10-27 17:13:40
+487,High priority: WiFi connection problems,Cannot connect to WiFi in conference room B. Multiple users are reporting this issue.,network,medium,open,2025-11-18 17:13:40
+488,Software installation error,Cannot install the updated version of Adobe Reader. Has been happening since yesterday.,software,low,open,2025-11-09 17:13:40
+489,URGENT: Printer paper jam,Office printer has a paper jam that I cannot clear.,hardware,high,open,2025-11-04 17:13:40
+490,Suspicious email received,Received a phishing email claiming to be from IT. Please help urgently.,security,low,resolved,2025-10-07 17:13:40
+491,Major issue: Access permission needed,Need access to the shared drive for marketing team. Multiple users are reporting this issue.,account,high,open,2025-11-13 17:13:40
+492,Printer paper jam,Office printer has a paper jam that I cannot clear. This is affecting my work.,hardware,low,in_progress,2025-09-28 17:13:40
+493,Slow internet speed,"Internet is extremely slow, pages take forever to load. This is affecting my work.",network,low,resolved,2025-10-28 17:13:40
+494,Monitor display issues,Second monitor is not being detected by my computer. Has been happening since yesterday.,hardware,low,open,2025-10-29 17:13:40
+495,Suspicious email received,Received a phishing email claiming to be from IT. Please help urgently.,security,low,resolved,2025-09-24 17:13:40
+496,Password reset request,I forgot my password and need to reset it. This is affecting my work.,account,low,resolved,2025-09-02 17:13:40
+497,Major issue: VPN not working,VPN connection keeps dropping every few minutes.,network,high,open,2025-11-17 17:13:40
+498,Important: Application crashing,Microsoft Excel crashes every time I open large files. Has been happening since yesterday.,software,medium,open,2025-11-03 17:13:40
+499,Keyboard keys not working,Several keys on my keyboard have stopped responding. Multiple users are reporting this issue.,hardware,low,open,2025-09-03 17:13:40
+500,Browser performance issues,Chrome browser is very slow and unresponsive. Multiple users are reporting this issue.,software,low,open,2025-10-13 17:13:40
+501,Account locked out,My account has been locked after multiple login attempts.,account,low,in_progress,2025-09-17 17:13:40
+502,Monitor display issues,Second monitor is not being detected by my computer.,hardware,low,open,2025-10-27 17:13:40
+503,Network printer offline,Network printer is showing offline status. Has been happening since yesterday.,network,low,open,2025-11-17 17:13:40
+504,Software license expired,AutoCAD showing license expired message.,software,low,open,2025-11-14 17:13:40
+505,Need help: Network connectivity issues,Unable to connect to the office network from my laptop.,network,medium,open,2025-09-16 17:13:40
+506,High priority: Malware detected,Antivirus detected malware on my computer. Please help urgently.,security,medium,open,2025-11-01 17:13:40
+507,High priority: Account locked out,My account has been locked after multiple login attempts. This is affecting my work.,account,medium,resolved,2025-10-13 17:13:40
+508,Need help: Password reset request,I forgot my password and need to reset it. Has been happening since yesterday.,account,medium,open,2025-10-21 17:13:40
+509,Need help: Browser performance issues,Chrome browser is very slow and unresponsive. This is affecting my work.,software,medium,open,2025-11-12 17:13:40
+510,Software installation error,Cannot install the updated version of Adobe Reader.,software,low,resolved,2025-08-27 17:13:40
+511,WiFi connection problems,Cannot connect to WiFi in conference room B. This is affecting my work.,network,low,resolved,2025-11-03 17:13:40
+512,Need help: Email client not syncing,Outlook is not syncing my emails properly. This is affecting my work.,software,medium,open,2025-09-22 17:13:40
+513,Need help: VPN not working,VPN connection keeps dropping every few minutes.,network,medium,resolved,2025-10-15 17:13:40
+514,Need help: Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Please help urgently.,security,medium,in_progress,2025-09-10 17:13:40
+515,Important: Access permission needed,Need access to the shared drive for marketing team. Has been happening since yesterday.,account,medium,open,2025-10-17 17:13:40
+516,Slow internet speed,"Internet is extremely slow, pages take forever to load. This is affecting my work.",network,low,open,2025-11-16 17:13:40
+517,System down: Password reset request,I forgot my password and need to reset it. Has been happening since yesterday.,account,high,open,2025-09-09 17:13:40
+518,Email client not syncing,Outlook is not syncing my emails properly. This is affecting my work.,software,low,open,2025-10-09 17:13:40
+519,Important: New user account setup,New employee needs account setup for all systems. Please help urgently.,account,medium,open,2025-09-29 17:13:40
+520,Network printer offline,Network printer is showing offline status. Multiple users are reporting this issue.,network,low,resolved,2025-09-14 17:13:40
+521,Email account issues,"Cannot access my email account, shows invalid credentials. Multiple users are reporting this issue.",account,low,open,2025-09-08 17:13:40
+522,Major issue: Software license expired,AutoCAD showing license expired message. Multiple users are reporting this issue.,software,high,resolved,2025-08-27 17:13:40
+523,High priority: Malware detected,Antivirus detected malware on my computer. This is affecting my work.,security,medium,resolved,2025-09-19 17:13:40
+524,Software license expired,AutoCAD showing license expired message. Has been happening since yesterday.,software,low,open,2025-10-31 17:13:40
+525,URGENT: Software license expired,AutoCAD showing license expired message.,software,high,open,2025-11-07 17:13:40
+526,Application crashing,Microsoft Excel crashes every time I open large files. Multiple users are reporting this issue.,software,low,open,2025-11-01 17:13:40
+527,Application crashing,Microsoft Excel crashes every time I open large files. Please help urgently.,software,low,open,2025-10-02 17:13:40
+528,CRITICAL: VPN not working,VPN connection keeps dropping every few minutes.,network,high,open,2025-09-16 17:13:40
+529,New user account setup,New employee needs account setup for all systems. Please help urgently.,account,low,open,2025-09-24 17:13:40
+530,Need help: Data breach concern,"Concerned about potential data breach, unusual activity noticed. This is affecting my work.",security,medium,open,2025-09-30 17:13:40
+531,Application crashing,Microsoft Excel crashes every time I open large files. Has been happening since yesterday.,software,low,resolved,2025-09-17 17:13:40
+532,EMERGENCY: Data breach concern,"Concerned about potential data breach, unusual activity noticed. This is affecting my work.",security,high,resolved,2025-10-26 17:13:40
+533,Email account issues,"Cannot access my email account, shows invalid credentials. Multiple users are reporting this issue.",account,low,open,2025-09-19 17:13:40
+534,High priority: Network printer offline,Network printer is showing offline status. Please help urgently.,network,medium,open,2025-09-15 17:13:40
+535,Email client not syncing,Outlook is not syncing my emails properly. This is affecting my work.,software,low,in_progress,2025-10-02 17:13:40
+536,Keyboard keys not working,Several keys on my keyboard have stopped responding. This is affecting my work.,hardware,low,in_progress,2025-10-21 17:13:40
+537,Security certificate error,Getting security certificate error on company website. Multiple users are reporting this issue.,security,low,open,2025-11-10 17:13:40
+538,Laptop screen flickering,My laptop screen keeps flickering and going black. Please help urgently.,hardware,low,open,2025-10-26 17:13:40
+539,System down: VPN not working,VPN connection keeps dropping every few minutes. Has been happening since yesterday.,network,high,open,2025-11-07 17:13:40
+540,Major issue: Suspicious email received,Received a phishing email claiming to be from IT. Please help urgently.,security,high,open,2025-09-20 17:13:40
+541,Need help: Browser performance issues,Chrome browser is very slow and unresponsive.,software,medium,open,2025-09-19 17:13:40
+542,Software installation error,Cannot install the updated version of Adobe Reader. Has been happening since yesterday.,software,low,open,2025-09-01 17:13:40
+543,Unauthorized access attempt,Multiple failed login attempts on my account from unknown location.,security,low,open,2025-09-09 17:13:40
+544,Software installation error,Cannot install the updated version of Adobe Reader. Please help urgently.,software,low,open,2025-10-25 17:13:40
+545,Account locked out,My account has been locked after multiple login attempts. Multiple users are reporting this issue.,account,low,open,2025-09-17 17:13:40
+546,Important: Account locked out,My account has been locked after multiple login attempts. Multiple users are reporting this issue.,account,medium,resolved,2025-10-10 17:13:40
+547,WiFi connection problems,Cannot connect to WiFi in conference room B. Has been happening since yesterday.,network,low,open,2025-08-26 17:13:40
+548,Slow internet speed,"Internet is extremely slow, pages take forever to load. Multiple users are reporting this issue.",network,low,open,2025-09-02 17:13:40
+549,Laptop screen flickering,My laptop screen keeps flickering and going black. Please help urgently.,hardware,low,open,2025-09-23 17:13:40
+550,Slow internet speed,"Internet is extremely slow, pages take forever to load. Please help urgently.",network,low,open,2025-10-18 17:13:40
+551,Printer paper jam,Office printer has a paper jam that I cannot clear. Has been happening since yesterday.,hardware,low,open,2025-09-18 17:13:40
+552,EMERGENCY: Monitor display issues,Second monitor is not being detected by my computer. Multiple users are reporting this issue.,hardware,high,in_progress,2025-10-08 17:13:40
+553,Important: WiFi connection problems,Cannot connect to WiFi in conference room B. Multiple users are reporting this issue.,network,medium,in_progress,2025-08-26 17:13:40
+554,Security certificate error,Getting security certificate error on company website. Has been happening since yesterday.,security,low,open,2025-09-01 17:13:40
+555,Need help: Access permission needed,Need access to the shared drive for marketing team. This is affecting my work.,account,medium,open,2025-11-04 17:13:40
+556,Account locked out,My account has been locked after multiple login attempts. This is affecting my work.,account,low,open,2025-10-09 17:13:40
+557,Need help: Malware detected,Antivirus detected malware on my computer.,security,medium,open,2025-09-25 17:13:40
+558,Need help: Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Multiple users are reporting this issue.,security,medium,in_progress,2025-10-03 17:13:40
+559,Mouse not responding,Wireless mouse is not connecting to my computer. Multiple users are reporting this issue.,hardware,low,in_progress,2025-08-22 17:13:40
+560,Need help: Malware detected,Antivirus detected malware on my computer. This is affecting my work.,security,medium,open,2025-09-27 17:13:40
+561,New user account setup,New employee needs account setup for all systems. Has been happening since yesterday.,account,low,open,2025-11-01 17:13:40
+562,Software license expired,AutoCAD showing license expired message. Has been happening since yesterday.,software,low,open,2025-10-04 17:13:40
+563,Password reset request,I forgot my password and need to reset it. This is affecting my work.,account,low,open,2025-11-20 17:13:40
+564,Security certificate error,Getting security certificate error on company website. Please help urgently.,security,low,open,2025-11-02 17:13:40
+565,Important: Software installation error,Cannot install the updated version of Adobe Reader. Has been happening since yesterday.,software,medium,open,2025-08-25 17:13:40
+566,Important: VPN not working,VPN connection keeps dropping every few minutes. This is affecting my work.,network,medium,open,2025-11-04 17:13:40
+567,High priority: Email account issues,"Cannot access my email account, shows invalid credentials. Has been happening since yesterday.",account,medium,resolved,2025-11-06 17:13:40
+568,High priority: WiFi connection problems,Cannot connect to WiFi in conference room B.,network,medium,open,2025-10-09 17:13:40
+569,Software license expired,AutoCAD showing license expired message.,software,low,resolved,2025-11-07 17:13:40
+570,Important: Data breach concern,"Concerned about potential data breach, unusual activity noticed. Please help urgently.",security,medium,open,2025-09-07 17:13:40
+571,URGENT: Slow internet speed,"Internet is extremely slow, pages take forever to load. Multiple users are reporting this issue.",network,high,open,2025-09-18 17:13:40
+572,Important: Mouse not responding,Wireless mouse is not connecting to my computer. Multiple users are reporting this issue.,hardware,medium,resolved,2025-10-27 17:13:40
+573,EMERGENCY: Keyboard keys not working,Several keys on my keyboard have stopped responding. Please help urgently.,hardware,high,open,2025-09-11 17:13:40
+574,URGENT: Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. This is affecting my work.,security,high,open,2025-09-19 17:13:40
+575,Security certificate error,Getting security certificate error on company website. Please help urgently.,security,low,open,2025-10-09 17:13:40
+576,VPN not working,VPN connection keeps dropping every few minutes. Please help urgently.,network,low,resolved,2025-08-27 17:13:40
+577,System down: Password reset request,I forgot my password and need to reset it. Please help urgently.,account,high,in_progress,2025-08-24 17:13:40
+578,Need help: Laptop screen flickering,My laptop screen keeps flickering and going black. Please help urgently.,hardware,medium,in_progress,2025-09-25 17:13:40
+579,Account locked out,My account has been locked after multiple login attempts. This is affecting my work.,account,low,in_progress,2025-08-22 17:13:40
+580,Malware detected,Antivirus detected malware on my computer. This is affecting my work.,security,low,open,2025-09-17 17:13:40
+581,Network connectivity issues,Unable to connect to the office network from my laptop.,network,low,open,2025-11-13 17:13:40
+582,Major issue: Printer paper jam,Office printer has a paper jam that I cannot clear. This is affecting my work.,hardware,high,in_progress,2025-10-30 17:13:40
+583,Browser performance issues,Chrome browser is very slow and unresponsive.,software,low,in_progress,2025-10-16 17:13:40
+584,Malware detected,Antivirus detected malware on my computer.,security,low,in_progress,2025-09-13 17:13:40
+585,Important: VPN not working,VPN connection keeps dropping every few minutes. This is affecting my work.,network,medium,open,2025-08-25 17:13:40
+586,Email account issues,"Cannot access my email account, shows invalid credentials. Has been happening since yesterday.",account,low,open,2025-09-07 17:13:40
+587,Network connectivity issues,Unable to connect to the office network from my laptop. Please help urgently.,network,low,resolved,2025-10-28 17:13:40
+588,Network connectivity issues,Unable to connect to the office network from my laptop. Has been happening since yesterday.,network,low,open,2025-10-18 17:13:40
+589,Slow internet speed,"Internet is extremely slow, pages take forever to load. Multiple users are reporting this issue.",network,low,open,2025-10-29 17:13:40
+590,Mouse not responding,Wireless mouse is not connecting to my computer. Multiple users are reporting this issue.,hardware,low,in_progress,2025-09-28 17:13:40
+591,High priority: Email client not syncing,Outlook is not syncing my emails properly. Multiple users are reporting this issue.,software,medium,open,2025-11-04 17:13:40
+592,Software installation error,Cannot install the updated version of Adobe Reader.,software,low,open,2025-11-04 17:13:40
+593,High priority: Browser performance issues,Chrome browser is very slow and unresponsive.,software,medium,open,2025-09-26 17:13:40
+594,Application crashing,Microsoft Excel crashes every time I open large files. Multiple users are reporting this issue.,software,low,in_progress,2025-09-05 17:13:40
+595,Suspicious email received,Received a phishing email claiming to be from IT. Multiple users are reporting this issue.,security,low,in_progress,2025-11-08 17:13:40
+596,Important: Network connectivity issues,Unable to connect to the office network from my laptop. Has been happening since yesterday.,network,medium,open,2025-11-05 17:13:40
+597,Slow internet speed,"Internet is extremely slow, pages take forever to load. Has been happening since yesterday.",network,low,resolved,2025-11-07 17:13:40
+598,EMERGENCY: WiFi connection problems,Cannot connect to WiFi in conference room B. Please help urgently.,network,high,in_progress,2025-09-21 17:13:40
+599,Password reset request,I forgot my password and need to reset it. Has been happening since yesterday.,account,low,in_progress,2025-08-30 17:13:40
+600,Password reset request,I forgot my password and need to reset it.,account,low,resolved,2025-09-14 17:13:40
+601,Network connectivity issues,Unable to connect to the office network from my laptop. Multiple users are reporting this issue.,network,low,open,2025-10-14 17:13:40
+602,Browser performance issues,Chrome browser is very slow and unresponsive. This is affecting my work.,software,low,open,2025-09-05 17:13:40
+603,Major issue: Software license expired,AutoCAD showing license expired message. This is affecting my work.,software,high,resolved,2025-08-24 17:13:40
+604,Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Please help urgently.,security,low,in_progress,2025-11-18 17:13:40
+605,System down: Software installation error,Cannot install the updated version of Adobe Reader. Please help urgently.,software,high,resolved,2025-11-20 17:13:40
+606,WiFi connection problems,Cannot connect to WiFi in conference room B. Please help urgently.,network,low,open,2025-10-13 17:13:40
+607,Access permission needed,Need access to the shared drive for marketing team. Please help urgently.,account,low,resolved,2025-09-30 17:13:40
+608,EMERGENCY: Keyboard keys not working,Several keys on my keyboard have stopped responding. This is affecting my work.,hardware,high,open,2025-09-12 17:13:40
+609,Major issue: Printer paper jam,Office printer has a paper jam that I cannot clear. This is affecting my work.,hardware,high,open,2025-09-03 17:13:40
+610,Printer paper jam,Office printer has a paper jam that I cannot clear. Please help urgently.,hardware,low,in_progress,2025-10-10 17:13:40
+611,System down: Software license expired,AutoCAD showing license expired message. Multiple users are reporting this issue.,software,high,in_progress,2025-10-25 17:13:40
+612,Important: Access permission needed,Need access to the shared drive for marketing team. Has been happening since yesterday.,account,medium,open,2025-10-30 17:13:40
+613,Major issue: Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Multiple users are reporting this issue.,security,high,open,2025-09-01 17:13:40
+614,High priority: Email account issues,"Cannot access my email account, shows invalid credentials. This is affecting my work.",account,medium,open,2025-11-17 17:13:40
+615,CRITICAL: Email client not syncing,Outlook is not syncing my emails properly. This is affecting my work.,software,high,in_progress,2025-10-11 17:13:40
+616,Important: Laptop screen flickering,My laptop screen keeps flickering and going black. This is affecting my work.,hardware,medium,resolved,2025-11-13 17:13:40
+617,WiFi connection problems,Cannot connect to WiFi in conference room B. Please help urgently.,network,low,open,2025-08-27 17:13:40
+618,Software installation error,Cannot install the updated version of Adobe Reader. This is affecting my work.,software,low,resolved,2025-09-05 17:13:40
+619,Major issue: Data breach concern,"Concerned about potential data breach, unusual activity noticed.",security,high,open,2025-11-19 17:13:40
+620,CRITICAL: Account locked out,My account has been locked after multiple login attempts. This is affecting my work.,account,high,open,2025-09-21 17:13:40
+621,Important: Email account issues,"Cannot access my email account, shows invalid credentials. Please help urgently.",account,medium,open,2025-09-29 17:13:40
+622,Network connectivity issues,Unable to connect to the office network from my laptop. Multiple users are reporting this issue.,network,low,resolved,2025-11-13 17:13:40
+623,EMERGENCY: VPN not working,VPN connection keeps dropping every few minutes.,network,high,open,2025-08-31 17:13:40
+624,URGENT: Software license expired,AutoCAD showing license expired message. Multiple users are reporting this issue.,software,high,in_progress,2025-10-06 17:13:40
+625,High priority: Account locked out,My account has been locked after multiple login attempts. Please help urgently.,account,medium,resolved,2025-10-06 17:13:40
+626,Email account issues,"Cannot access my email account, shows invalid credentials. Please help urgently.",account,low,open,2025-10-03 17:13:40
+627,Application crashing,Microsoft Excel crashes every time I open large files. Please help urgently.,software,low,open,2025-10-20 17:13:40
+628,High priority: Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Multiple users are reporting this issue.,security,medium,resolved,2025-11-06 17:13:40
+629,Suspicious email received,Received a phishing email claiming to be from IT. Has been happening since yesterday.,security,low,open,2025-08-31 17:13:40
+630,Need help: Software license expired,AutoCAD showing license expired message. Has been happening since yesterday.,software,medium,resolved,2025-09-01 17:13:40
+631,Malware detected,Antivirus detected malware on my computer. Please help urgently.,security,low,open,2025-11-19 17:13:40
+632,Important: Monitor display issues,Second monitor is not being detected by my computer. Has been happening since yesterday.,hardware,medium,open,2025-10-27 17:13:40
+633,Need help: Email account issues,"Cannot access my email account, shows invalid credentials. Multiple users are reporting this issue.",account,medium,resolved,2025-09-05 17:13:40
+634,Mouse not responding,Wireless mouse is not connecting to my computer. Multiple users are reporting this issue.,hardware,low,open,2025-11-06 17:13:40
+635,Password reset request,I forgot my password and need to reset it. This is affecting my work.,account,low,in_progress,2025-10-16 17:13:40
+636,Network printer offline,Network printer is showing offline status. Multiple users are reporting this issue.,network,low,in_progress,2025-09-23 17:13:40
+637,System down: Network printer offline,Network printer is showing offline status. Multiple users are reporting this issue.,network,high,open,2025-10-02 17:13:40
+638,Important: Data breach concern,"Concerned about potential data breach, unusual activity noticed.",security,medium,open,2025-10-25 17:13:40
+639,High priority: WiFi connection problems,Cannot connect to WiFi in conference room B. This is affecting my work.,network,medium,in_progress,2025-09-12 17:13:40
+640,VPN not working,VPN connection keeps dropping every few minutes. Please help urgently.,network,low,open,2025-09-04 17:13:40
+641,System down: Email client not syncing,Outlook is not syncing my emails properly. Multiple users are reporting this issue.,software,high,in_progress,2025-09-14 17:13:40
+642,Security certificate error,Getting security certificate error on company website. This is affecting my work.,security,low,resolved,2025-10-21 17:13:40
+643,New user account setup,New employee needs account setup for all systems.,account,low,resolved,2025-11-17 17:13:40
+644,High priority: Keyboard keys not working,Several keys on my keyboard have stopped responding. Please help urgently.,hardware,medium,in_progress,2025-11-09 17:13:40
+645,Software installation error,Cannot install the updated version of Adobe Reader. Has been happening since yesterday.,software,low,resolved,2025-09-24 17:13:40
+646,Monitor display issues,Second monitor is not being detected by my computer. This is affecting my work.,hardware,low,in_progress,2025-11-07 17:13:40
+647,High priority: Browser performance issues,Chrome browser is very slow and unresponsive. Has been happening since yesterday.,software,medium,resolved,2025-08-28 17:13:40
+648,Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Please help urgently.,security,low,resolved,2025-09-29 17:13:40
+649,Major issue: Browser performance issues,Chrome browser is very slow and unresponsive. This is affecting my work.,software,high,open,2025-11-01 17:13:40
+650,Email client not syncing,Outlook is not syncing my emails properly. This is affecting my work.,software,low,open,2025-11-02 17:13:40
+651,Suspicious email received,Received a phishing email claiming to be from IT. Has been happening since yesterday.,security,low,open,2025-11-19 17:13:40
+652,Important: Network printer offline,Network printer is showing offline status. Multiple users are reporting this issue.,network,medium,open,2025-10-01 17:13:40
+653,Mouse not responding,Wireless mouse is not connecting to my computer. Has been happening since yesterday.,hardware,low,open,2025-10-07 17:13:40
+654,Need help: Laptop screen flickering,My laptop screen keeps flickering and going black. Has been happening since yesterday.,hardware,medium,resolved,2025-08-29 17:13:40
+655,Need help: Software installation error,Cannot install the updated version of Adobe Reader. This is affecting my work.,software,medium,open,2025-08-25 17:13:40
+656,Laptop screen flickering,My laptop screen keeps flickering and going black.,hardware,low,in_progress,2025-10-14 17:13:40
+657,Keyboard keys not working,Several keys on my keyboard have stopped responding. Multiple users are reporting this issue.,hardware,low,in_progress,2025-09-23 17:13:40
+658,Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Please help urgently.,security,low,in_progress,2025-10-11 17:13:40
+659,EMERGENCY: Printer paper jam,Office printer has a paper jam that I cannot clear. This is affecting my work.,hardware,high,open,2025-09-08 17:13:40
+660,Email account issues,"Cannot access my email account, shows invalid credentials. Multiple users are reporting this issue.",account,low,open,2025-08-26 17:13:40
+661,High priority: Keyboard keys not working,Several keys on my keyboard have stopped responding. Please help urgently.,hardware,medium,in_progress,2025-10-03 17:13:40
+662,EMERGENCY: Printer paper jam,Office printer has a paper jam that I cannot clear. Please help urgently.,hardware,high,open,2025-09-04 17:13:40
+663,Email client not syncing,Outlook is not syncing my emails properly. This is affecting my work.,software,low,resolved,2025-10-19 17:13:40
+664,Email client not syncing,Outlook is not syncing my emails properly.,software,low,in_progress,2025-10-20 17:13:40
+665,Account locked out,My account has been locked after multiple login attempts. Has been happening since yesterday.,account,low,in_progress,2025-10-12 17:13:40
+666,Software license expired,AutoCAD showing license expired message. This is affecting my work.,software,low,open,2025-11-13 17:13:40
+667,Data breach concern,"Concerned about potential data breach, unusual activity noticed. Has been happening since yesterday.",security,low,open,2025-10-08 17:13:40
+668,Need help: Email client not syncing,Outlook is not syncing my emails properly. Has been happening since yesterday.,software,medium,resolved,2025-09-25 17:13:40
+669,Important: Access permission needed,Need access to the shared drive for marketing team.,account,medium,open,2025-11-16 17:13:40
+670,High priority: Data breach concern,"Concerned about potential data breach, unusual activity noticed. Please help urgently.",security,medium,open,2025-11-09 17:13:40
+671,CRITICAL: New user account setup,New employee needs account setup for all systems. Multiple users are reporting this issue.,account,high,open,2025-09-08 17:13:40
+672,Important: WiFi connection problems,Cannot connect to WiFi in conference room B. Multiple users are reporting this issue.,network,medium,open,2025-10-05 17:13:40
+673,Important: Security certificate error,Getting security certificate error on company website. Has been happening since yesterday.,security,medium,open,2025-10-31 17:13:40
+674,VPN not working,VPN connection keeps dropping every few minutes. This is affecting my work.,network,low,resolved,2025-10-25 17:13:40
+675,Malware detected,Antivirus detected malware on my computer. Multiple users are reporting this issue.,security,low,resolved,2025-11-09 17:13:40
+676,Network connectivity issues,Unable to connect to the office network from my laptop. This is affecting my work.,network,low,open,2025-10-11 17:13:40
+677,Malware detected,Antivirus detected malware on my computer. Multiple users are reporting this issue.,security,low,open,2025-11-07 17:13:40
+678,CRITICAL: Email account issues,"Cannot access my email account, shows invalid credentials. This is affecting my work.",account,high,in_progress,2025-09-15 17:13:40
+679,CRITICAL: Email client not syncing,Outlook is not syncing my emails properly.,software,high,in_progress,2025-10-07 17:13:40
+680,Printer paper jam,Office printer has a paper jam that I cannot clear. This is affecting my work.,hardware,low,open,2025-10-11 17:13:40
+681,URGENT: Software installation error,Cannot install the updated version of Adobe Reader. This is affecting my work.,software,high,open,2025-11-11 17:13:40
+682,Password reset request,I forgot my password and need to reset it. Please help urgently.,account,low,open,2025-08-30 17:13:40
+683,Need help: Software installation error,Cannot install the updated version of Adobe Reader. Has been happening since yesterday.,software,medium,open,2025-09-02 17:13:40
+684,Network connectivity issues,Unable to connect to the office network from my laptop. Has been happening since yesterday.,network,low,open,2025-10-22 17:13:40
+685,Email account issues,"Cannot access my email account, shows invalid credentials. Multiple users are reporting this issue.",account,low,open,2025-10-12 17:13:40
+686,Important: Laptop screen flickering,My laptop screen keeps flickering and going black. Has been happening since yesterday.,hardware,medium,open,2025-10-02 17:13:40
+687,Access permission needed,Need access to the shared drive for marketing team. Please help urgently.,account,low,in_progress,2025-11-04 17:13:40
+688,Browser performance issues,Chrome browser is very slow and unresponsive. Please help urgently.,software,low,open,2025-11-08 17:13:40
+689,Important: Keyboard keys not working,Several keys on my keyboard have stopped responding. This is affecting my work.,hardware,medium,open,2025-11-15 17:13:40
+690,Browser performance issues,Chrome browser is very slow and unresponsive. Multiple users are reporting this issue.,software,low,open,2025-09-10 17:13:40
+691,Major issue: Network connectivity issues,Unable to connect to the office network from my laptop. Please help urgently.,network,high,open,2025-10-04 17:13:40
+692,Monitor display issues,Second monitor is not being detected by my computer. Please help urgently.,hardware,low,open,2025-10-03 17:13:40
+693,Security certificate error,Getting security certificate error on company website. Please help urgently.,security,low,open,2025-09-06 17:13:40
+694,Software license expired,AutoCAD showing license expired message. This is affecting my work.,software,low,open,2025-11-03 17:13:40
+695,Important: Software installation error,Cannot install the updated version of Adobe Reader. Has been happening since yesterday.,software,medium,in_progress,2025-09-06 17:13:40
+696,Important: WiFi connection problems,Cannot connect to WiFi in conference room B. Please help urgently.,network,medium,open,2025-10-19 17:13:40
+697,Email account issues,"Cannot access my email account, shows invalid credentials. Multiple users are reporting this issue.",account,low,in_progress,2025-08-29 17:13:40
+698,High priority: Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Has been happening since yesterday.,security,medium,open,2025-11-01 17:13:40
+699,Password reset request,I forgot my password and need to reset it. This is affecting my work.,account,low,open,2025-08-22 17:13:40
+700,Mouse not responding,Wireless mouse is not connecting to my computer. Multiple users are reporting this issue.,hardware,low,in_progress,2025-09-27 17:13:40
+701,URGENT: Browser performance issues,Chrome browser is very slow and unresponsive. Has been happening since yesterday.,software,high,in_progress,2025-11-18 17:13:40
+702,Need help: Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. This is affecting my work.,security,medium,in_progress,2025-10-31 17:13:40
+703,Important: Network printer offline,Network printer is showing offline status. Multiple users are reporting this issue.,network,medium,open,2025-08-26 17:13:40
+704,Need help: Account locked out,My account has been locked after multiple login attempts. This is affecting my work.,account,medium,open,2025-09-05 17:13:40
+705,WiFi connection problems,Cannot connect to WiFi in conference room B. This is affecting my work.,network,low,open,2025-09-28 17:13:40
+706,System down: Mouse not responding,Wireless mouse is not connecting to my computer. Has been happening since yesterday.,hardware,high,open,2025-09-11 17:13:40
+707,Mouse not responding,Wireless mouse is not connecting to my computer. Please help urgently.,hardware,low,open,2025-11-16 17:13:40
+708,Keyboard keys not working,Several keys on my keyboard have stopped responding.,hardware,low,resolved,2025-11-04 17:13:40
+709,Network printer offline,Network printer is showing offline status. Multiple users are reporting this issue.,network,low,open,2025-09-19 17:13:40
+710,High priority: Keyboard keys not working,Several keys on my keyboard have stopped responding. This is affecting my work.,hardware,medium,open,2025-11-07 17:13:40
+711,Important: Slow internet speed,"Internet is extremely slow, pages take forever to load. Multiple users are reporting this issue.",network,medium,open,2025-09-13 17:13:40
+712,High priority: Network connectivity issues,Unable to connect to the office network from my laptop. Multiple users are reporting this issue.,network,medium,open,2025-11-03 17:13:40
+713,Mouse not responding,Wireless mouse is not connecting to my computer. Multiple users are reporting this issue.,hardware,low,resolved,2025-08-23 17:13:40
+714,URGENT: Application crashing,Microsoft Excel crashes every time I open large files. Has been happening since yesterday.,software,high,open,2025-10-18 17:13:40
+715,System down: Network printer offline,Network printer is showing offline status. Has been happening since yesterday.,network,high,resolved,2025-09-10 17:13:40
+716,Important: Network printer offline,Network printer is showing offline status. Please help urgently.,network,medium,resolved,2025-11-10 17:13:40
+717,Network connectivity issues,Unable to connect to the office network from my laptop. Multiple users are reporting this issue.,network,low,open,2025-10-23 17:13:40
+718,Keyboard keys not working,Several keys on my keyboard have stopped responding. Has been happening since yesterday.,hardware,low,in_progress,2025-09-06 17:13:40
+719,High priority: Slow internet speed,"Internet is extremely slow, pages take forever to load. Multiple users are reporting this issue.",network,medium,resolved,2025-10-12 17:13:40
+720,Need help: Account locked out,My account has been locked after multiple login attempts. This is affecting my work.,account,medium,open,2025-11-12 17:13:40
+721,Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Please help urgently.,security,low,open,2025-10-23 17:13:40
+722,Mouse not responding,Wireless mouse is not connecting to my computer. This is affecting my work.,hardware,low,open,2025-11-15 17:13:40
+723,Important: Laptop screen flickering,My laptop screen keeps flickering and going black. This is affecting my work.,hardware,medium,resolved,2025-09-14 17:13:40
+724,New user account setup,New employee needs account setup for all systems. Multiple users are reporting this issue.,account,low,open,2025-09-11 17:13:40
+725,High priority: Mouse not responding,Wireless mouse is not connecting to my computer. Please help urgently.,hardware,medium,resolved,2025-11-12 17:13:40
+726,Need help: Security certificate error,Getting security certificate error on company website. Please help urgently.,security,medium,open,2025-08-23 17:13:40
+727,Keyboard keys not working,Several keys on my keyboard have stopped responding. This is affecting my work.,hardware,low,resolved,2025-09-15 17:13:40
+728,Need help: Slow internet speed,"Internet is extremely slow, pages take forever to load.",network,medium,in_progress,2025-10-16 17:13:40
+729,Malware detected,Antivirus detected malware on my computer.,security,low,open,2025-09-25 17:13:40
+730,VPN not working,VPN connection keeps dropping every few minutes. This is affecting my work.,network,low,in_progress,2025-10-17 17:13:40
+731,Need help: Application crashing,Microsoft Excel crashes every time I open large files. Please help urgently.,software,medium,open,2025-10-25 17:13:40
+732,Keyboard keys not working,Several keys on my keyboard have stopped responding. Has been happening since yesterday.,hardware,low,open,2025-09-27 17:13:40
+733,Account locked out,My account has been locked after multiple login attempts. This is affecting my work.,account,low,resolved,2025-11-04 17:13:40
+734,Unauthorized access attempt,Multiple failed login attempts on my account from unknown location.,security,low,in_progress,2025-11-07 17:13:40
+735,Important: Printer paper jam,Office printer has a paper jam that I cannot clear. Multiple users are reporting this issue.,hardware,medium,open,2025-10-17 17:13:40
+736,Monitor display issues,Second monitor is not being detected by my computer. Multiple users are reporting this issue.,hardware,low,in_progress,2025-09-05 17:13:40
+737,Keyboard keys not working,Several keys on my keyboard have stopped responding. Has been happening since yesterday.,hardware,low,resolved,2025-10-26 17:13:40
+738,Slow internet speed,"Internet is extremely slow, pages take forever to load. This is affecting my work.",network,low,open,2025-09-15 17:13:40
+739,Need help: Keyboard keys not working,Several keys on my keyboard have stopped responding. Multiple users are reporting this issue.,hardware,medium,resolved,2025-09-07 17:13:40
+740,Password reset request,I forgot my password and need to reset it. Has been happening since yesterday.,account,low,open,2025-09-06 17:13:40
+741,URGENT: Email client not syncing,Outlook is not syncing my emails properly. Please help urgently.,software,high,resolved,2025-09-26 17:13:40
+742,Data breach concern,"Concerned about potential data breach, unusual activity noticed. This is affecting my work.",security,low,open,2025-10-02 17:13:40
+743,Access permission needed,Need access to the shared drive for marketing team. Multiple users are reporting this issue.,account,low,open,2025-10-09 17:13:40
+744,Need help: Printer paper jam,Office printer has a paper jam that I cannot clear. Please help urgently.,hardware,medium,open,2025-09-16 17:13:40
+745,Network connectivity issues,Unable to connect to the office network from my laptop. Multiple users are reporting this issue.,network,low,open,2025-11-11 17:13:40
+746,Keyboard keys not working,Several keys on my keyboard have stopped responding. Please help urgently.,hardware,low,in_progress,2025-10-07 17:13:40
+747,URGENT: Security certificate error,Getting security certificate error on company website. Has been happening since yesterday.,security,high,open,2025-10-21 17:13:40
+748,High priority: Mouse not responding,Wireless mouse is not connecting to my computer. Has been happening since yesterday.,hardware,medium,open,2025-09-26 17:13:40
+749,Keyboard keys not working,Several keys on my keyboard have stopped responding. Please help urgently.,hardware,low,open,2025-11-04 17:13:40
+750,Major issue: Browser performance issues,Chrome browser is very slow and unresponsive.,software,high,in_progress,2025-09-04 17:13:40
+751,System down: Software installation error,Cannot install the updated version of Adobe Reader. Please help urgently.,software,high,open,2025-10-09 17:13:40
+752,Printer paper jam,Office printer has a paper jam that I cannot clear. Has been happening since yesterday.,hardware,low,open,2025-11-03 17:13:40
+753,High priority: Security certificate error,Getting security certificate error on company website. This is affecting my work.,security,medium,open,2025-10-29 17:13:40
+754,Need help: Account locked out,My account has been locked after multiple login attempts. Multiple users are reporting this issue.,account,medium,open,2025-09-15 17:13:40
+755,Network printer offline,Network printer is showing offline status.,network,low,open,2025-11-16 17:13:40
+756,EMERGENCY: Network printer offline,Network printer is showing offline status. This is affecting my work.,network,high,open,2025-09-18 17:13:40
+757,CRITICAL: Software license expired,AutoCAD showing license expired message. Has been happening since yesterday.,software,high,open,2025-09-18 17:13:40
+758,High priority: Software license expired,AutoCAD showing license expired message. Has been happening since yesterday.,software,medium,resolved,2025-09-22 17:13:40
+759,Keyboard keys not working,Several keys on my keyboard have stopped responding. Multiple users are reporting this issue.,hardware,low,open,2025-10-22 17:13:40
+760,New user account setup,New employee needs account setup for all systems.,account,low,open,2025-09-01 17:13:40
+761,EMERGENCY: Monitor display issues,Second monitor is not being detected by my computer. This is affecting my work.,hardware,high,resolved,2025-10-04 17:13:40
+762,Important: Data breach concern,"Concerned about potential data breach, unusual activity noticed. Multiple users are reporting this issue.",security,medium,in_progress,2025-09-27 17:13:40
+763,Account locked out,My account has been locked after multiple login attempts. Has been happening since yesterday.,account,low,in_progress,2025-10-18 17:13:40
+764,CRITICAL: New user account setup,New employee needs account setup for all systems. This is affecting my work.,account,high,open,2025-10-28 17:13:40
+765,Email client not syncing,Outlook is not syncing my emails properly. This is affecting my work.,software,low,open,2025-08-27 17:13:40
+766,Password reset request,I forgot my password and need to reset it. Has been happening since yesterday.,account,low,in_progress,2025-09-07 17:13:40
+767,Printer paper jam,Office printer has a paper jam that I cannot clear.,hardware,low,open,2025-10-16 17:13:40
+768,Important: Password reset request,I forgot my password and need to reset it. This is affecting my work.,account,medium,open,2025-10-03 17:13:40
+769,Network printer offline,Network printer is showing offline status. This is affecting my work.,network,low,open,2025-08-26 17:13:40
+770,VPN not working,VPN connection keeps dropping every few minutes. Please help urgently.,network,low,open,2025-08-28 17:13:40
+771,Mouse not responding,Wireless mouse is not connecting to my computer. Multiple users are reporting this issue.,hardware,low,open,2025-11-10 17:13:40
+772,Security certificate error,Getting security certificate error on company website. Please help urgently.,security,low,resolved,2025-10-13 17:13:40
+773,Important: Mouse not responding,Wireless mouse is not connecting to my computer. Please help urgently.,hardware,medium,resolved,2025-11-17 17:13:40
+774,Need help: Browser performance issues,Chrome browser is very slow and unresponsive. Multiple users are reporting this issue.,software,medium,open,2025-11-08 17:13:40
+775,Major issue: Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Has been happening since yesterday.,security,high,resolved,2025-11-04 17:13:40
+776,Important: Email account issues,"Cannot access my email account, shows invalid credentials. Please help urgently.",account,medium,open,2025-08-30 17:13:40
+777,EMERGENCY: Monitor display issues,Second monitor is not being detected by my computer. This is affecting my work.,hardware,high,in_progress,2025-09-22 17:13:40
+778,High priority: Network printer offline,Network printer is showing offline status. Please help urgently.,network,medium,open,2025-08-26 17:13:40
+779,Need help: Suspicious email received,Received a phishing email claiming to be from IT. This is affecting my work.,security,medium,open,2025-11-03 17:13:40
+780,Need help: Keyboard keys not working,Several keys on my keyboard have stopped responding.,hardware,medium,open,2025-10-16 17:13:40
+781,High priority: Printer paper jam,Office printer has a paper jam that I cannot clear. Has been happening since yesterday.,hardware,medium,open,2025-09-13 17:13:40
+782,EMERGENCY: Malware detected,Antivirus detected malware on my computer. This is affecting my work.,security,high,in_progress,2025-10-16 17:13:40
+783,Account locked out,My account has been locked after multiple login attempts.,account,low,open,2025-09-05 17:13:40
+784,Laptop screen flickering,My laptop screen keeps flickering and going black.,hardware,low,resolved,2025-11-15 17:13:40
+785,High priority: Software license expired,AutoCAD showing license expired message. Multiple users are reporting this issue.,software,medium,in_progress,2025-10-22 17:13:40
+786,Network printer offline,Network printer is showing offline status. Multiple users are reporting this issue.,network,low,open,2025-11-12 17:13:40
+787,Laptop screen flickering,My laptop screen keeps flickering and going black. Multiple users are reporting this issue.,hardware,low,open,2025-11-05 17:13:40
+788,New user account setup,New employee needs account setup for all systems.,account,low,open,2025-10-12 17:13:40
+789,Malware detected,Antivirus detected malware on my computer. Multiple users are reporting this issue.,security,low,open,2025-11-08 17:13:40
+790,Important: Printer paper jam,Office printer has a paper jam that I cannot clear. Has been happening since yesterday.,hardware,medium,resolved,2025-10-08 17:13:40
+791,Network connectivity issues,Unable to connect to the office network from my laptop. Has been happening since yesterday.,network,low,resolved,2025-09-24 17:13:40
+792,Data breach concern,"Concerned about potential data breach, unusual activity noticed. Multiple users are reporting this issue.",security,low,open,2025-09-09 17:13:40
+793,Monitor display issues,Second monitor is not being detected by my computer. Please help urgently.,hardware,low,open,2025-10-17 17:13:40
+794,Malware detected,Antivirus detected malware on my computer. This is affecting my work.,security,low,open,2025-09-26 17:13:40
+795,Email account issues,"Cannot access my email account, shows invalid credentials. Please help urgently.",account,low,open,2025-11-05 17:13:40
+796,Need help: Printer paper jam,Office printer has a paper jam that I cannot clear. Has been happening since yesterday.,hardware,medium,in_progress,2025-09-26 17:13:40
+797,Laptop screen flickering,My laptop screen keeps flickering and going black. Please help urgently.,hardware,low,open,2025-09-21 17:13:40
+798,Important: Access permission needed,Need access to the shared drive for marketing team. Has been happening since yesterday.,account,medium,resolved,2025-09-10 17:13:40
+799,Laptop screen flickering,My laptop screen keeps flickering and going black. Has been happening since yesterday.,hardware,low,resolved,2025-08-26 17:13:40
+800,New user account setup,New employee needs account setup for all systems. Has been happening since yesterday.,account,low,open,2025-09-09 17:13:40
+801,High priority: Email client not syncing,Outlook is not syncing my emails properly. Multiple users are reporting this issue.,software,medium,open,2025-09-29 17:13:40
+802,Major issue: Access permission needed,Need access to the shared drive for marketing team. Multiple users are reporting this issue.,account,high,open,2025-11-01 17:13:40
+803,Important: Monitor display issues,Second monitor is not being detected by my computer.,hardware,medium,open,2025-09-24 17:13:40
+804,Data breach concern,"Concerned about potential data breach, unusual activity noticed. Please help urgently.",security,low,open,2025-11-08 17:13:40
+805,Application crashing,Microsoft Excel crashes every time I open large files. Multiple users are reporting this issue.,software,low,open,2025-11-05 17:13:40
+806,Network printer offline,Network printer is showing offline status. Multiple users are reporting this issue.,network,low,open,2025-10-14 17:13:40
+807,Slow internet speed,"Internet is extremely slow, pages take forever to load. Multiple users are reporting this issue.",network,low,in_progress,2025-09-22 17:13:40
+808,CRITICAL: Malware detected,Antivirus detected malware on my computer. Has been happening since yesterday.,security,high,open,2025-11-12 17:13:40
+809,Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Has been happening since yesterday.,security,low,open,2025-10-21 17:13:40
+810,Important: Account locked out,My account has been locked after multiple login attempts. Multiple users are reporting this issue.,account,medium,open,2025-10-06 17:13:40
+811,New user account setup,New employee needs account setup for all systems. Multiple users are reporting this issue.,account,low,open,2025-09-27 17:13:40
+812,Printer paper jam,Office printer has a paper jam that I cannot clear.,hardware,low,in_progress,2025-10-17 17:13:40
+813,EMERGENCY: Network printer offline,Network printer is showing offline status.,network,high,open,2025-08-31 17:13:40
+814,CRITICAL: Application crashing,Microsoft Excel crashes every time I open large files. This is affecting my work.,software,high,open,2025-10-05 17:13:40
+815,High priority: Software license expired,AutoCAD showing license expired message.,software,medium,open,2025-09-28 17:13:40
+816,Important: Email account issues,"Cannot access my email account, shows invalid credentials. This is affecting my work.",account,medium,open,2025-10-23 17:13:40
+817,Need help: Laptop screen flickering,My laptop screen keeps flickering and going black. This is affecting my work.,hardware,medium,resolved,2025-08-25 17:13:40
+818,Suspicious email received,Received a phishing email claiming to be from IT.,security,low,open,2025-11-10 17:13:40
+819,URGENT: Monitor display issues,Second monitor is not being detected by my computer. This is affecting my work.,hardware,high,resolved,2025-10-02 17:13:40
+820,Keyboard keys not working,Several keys on my keyboard have stopped responding. Multiple users are reporting this issue.,hardware,low,open,2025-09-02 17:13:40
+821,Laptop screen flickering,My laptop screen keeps flickering and going black. Multiple users are reporting this issue.,hardware,low,open,2025-10-27 17:13:40
+822,Network printer offline,Network printer is showing offline status. This is affecting my work.,network,low,open,2025-08-24 17:13:40
+823,Important: Data breach concern,"Concerned about potential data breach, unusual activity noticed. Multiple users are reporting this issue.",security,medium,in_progress,2025-10-16 17:13:40
+824,CRITICAL: Network connectivity issues,Unable to connect to the office network from my laptop.,network,high,open,2025-09-20 17:13:40
+825,High priority: Network connectivity issues,Unable to connect to the office network from my laptop. Please help urgently.,network,medium,open,2025-09-08 17:13:40
+826,Access permission needed,Need access to the shared drive for marketing team.,account,low,open,2025-09-20 17:13:40
+827,Software installation error,Cannot install the updated version of Adobe Reader. Please help urgently.,software,low,open,2025-11-09 17:13:40
+828,Browser performance issues,Chrome browser is very slow and unresponsive. Has been happening since yesterday.,software,low,open,2025-10-19 17:13:40
+829,Monitor display issues,Second monitor is not being detected by my computer. This is affecting my work.,hardware,low,in_progress,2025-08-23 17:13:40
+830,Account locked out,My account has been locked after multiple login attempts. Has been happening since yesterday.,account,low,open,2025-09-17 17:13:40
+831,Account locked out,My account has been locked after multiple login attempts. Has been happening since yesterday.,account,low,open,2025-11-11 17:13:40
+832,Software installation error,Cannot install the updated version of Adobe Reader. Multiple users are reporting this issue.,software,low,open,2025-11-09 17:13:40
+833,High priority: VPN not working,VPN connection keeps dropping every few minutes.,network,medium,open,2025-10-30 17:13:40
+834,Network printer offline,Network printer is showing offline status.,network,low,open,2025-11-12 17:13:40
+835,High priority: Slow internet speed,"Internet is extremely slow, pages take forever to load. This is affecting my work.",network,medium,in_progress,2025-10-03 17:13:40
+836,Email client not syncing,Outlook is not syncing my emails properly. Has been happening since yesterday.,software,low,in_progress,2025-10-07 17:13:40
+837,Printer paper jam,Office printer has a paper jam that I cannot clear. Has been happening since yesterday.,hardware,low,open,2025-11-09 17:13:40
+838,Data breach concern,"Concerned about potential data breach, unusual activity noticed. This is affecting my work.",security,low,in_progress,2025-10-31 17:13:40
+839,Software installation error,Cannot install the updated version of Adobe Reader. Has been happening since yesterday.,software,low,open,2025-10-04 17:13:40
+840,Email account issues,"Cannot access my email account, shows invalid credentials. Please help urgently.",account,low,resolved,2025-11-16 17:13:40
+841,Data breach concern,"Concerned about potential data breach, unusual activity noticed. This is affecting my work.",security,low,resolved,2025-10-03 17:13:40
+842,Need help: Mouse not responding,Wireless mouse is not connecting to my computer. Please help urgently.,hardware,medium,in_progress,2025-11-03 17:13:40
+843,Mouse not responding,Wireless mouse is not connecting to my computer.,hardware,low,resolved,2025-09-24 17:13:40
+844,Email account issues,"Cannot access my email account, shows invalid credentials. This is affecting my work.",account,low,open,2025-10-01 17:13:40
+845,Browser performance issues,Chrome browser is very slow and unresponsive. Please help urgently.,software,low,resolved,2025-10-22 17:13:40
+846,Need help: WiFi connection problems,Cannot connect to WiFi in conference room B. Please help urgently.,network,medium,open,2025-09-02 17:13:40
+847,Major issue: Suspicious email received,Received a phishing email claiming to be from IT. Multiple users are reporting this issue.,security,high,in_progress,2025-10-12 17:13:40
+848,High priority: Email client not syncing,Outlook is not syncing my emails properly. This is affecting my work.,software,medium,in_progress,2025-09-10 17:13:40
+849,Email client not syncing,Outlook is not syncing my emails properly. This is affecting my work.,software,low,open,2025-11-14 17:13:40
+850,Mouse not responding,Wireless mouse is not connecting to my computer. This is affecting my work.,hardware,low,resolved,2025-08-28 17:13:40
+851,WiFi connection problems,Cannot connect to WiFi in conference room B.,network,low,in_progress,2025-10-08 17:13:40
+852,Password reset request,I forgot my password and need to reset it. Please help urgently.,account,low,open,2025-09-15 17:13:40
+853,High priority: Malware detected,Antivirus detected malware on my computer.,security,medium,open,2025-11-16 17:13:40
+854,Browser performance issues,Chrome browser is very slow and unresponsive. Please help urgently.,software,low,resolved,2025-09-29 17:13:40
+855,CRITICAL: Slow internet speed,"Internet is extremely slow, pages take forever to load. Multiple users are reporting this issue.",network,high,open,2025-09-13 17:13:40
+856,High priority: Keyboard keys not working,Several keys on my keyboard have stopped responding. Please help urgently.,hardware,medium,in_progress,2025-10-23 17:13:40
+857,High priority: Mouse not responding,Wireless mouse is not connecting to my computer. Multiple users are reporting this issue.,hardware,medium,open,2025-10-25 17:13:40
+858,Important: Email account issues,"Cannot access my email account, shows invalid credentials. This is affecting my work.",account,medium,resolved,2025-11-14 17:13:40
+859,High priority: Suspicious email received,Received a phishing email claiming to be from IT.,security,medium,open,2025-10-13 17:13:40
+860,High priority: Browser performance issues,Chrome browser is very slow and unresponsive. Has been happening since yesterday.,software,medium,resolved,2025-09-05 17:13:40
+861,Major issue: Software license expired,AutoCAD showing license expired message. Has been happening since yesterday.,software,high,resolved,2025-11-14 17:13:40
+862,Software license expired,AutoCAD showing license expired message. This is affecting my work.,software,low,open,2025-09-26 17:13:40
+863,System down: Network connectivity issues,Unable to connect to the office network from my laptop. Has been happening since yesterday.,network,high,open,2025-10-20 17:13:40
+864,New user account setup,New employee needs account setup for all systems. Has been happening since yesterday.,account,low,in_progress,2025-11-10 17:13:40
+865,EMERGENCY: Access permission needed,Need access to the shared drive for marketing team. Has been happening since yesterday.,account,high,in_progress,2025-09-20 17:13:40
+866,Password reset request,I forgot my password and need to reset it. Please help urgently.,account,low,open,2025-09-01 17:13:40
+867,Malware detected,Antivirus detected malware on my computer.,security,low,in_progress,2025-10-29 17:13:40
+868,Need help: Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Has been happening since yesterday.,security,medium,resolved,2025-09-25 17:13:40
+869,Email client not syncing,Outlook is not syncing my emails properly. This is affecting my work.,software,low,open,2025-10-12 17:13:40
+870,URGENT: Account locked out,My account has been locked after multiple login attempts.,account,high,open,2025-10-27 17:13:40
+871,Email client not syncing,Outlook is not syncing my emails properly. Multiple users are reporting this issue.,software,low,in_progress,2025-10-11 17:13:40
+872,CRITICAL: Suspicious email received,Received a phishing email claiming to be from IT. Multiple users are reporting this issue.,security,high,in_progress,2025-08-27 17:13:40
+873,Laptop screen flickering,My laptop screen keeps flickering and going black. Please help urgently.,hardware,low,in_progress,2025-10-29 17:13:40
+874,High priority: Security certificate error,Getting security certificate error on company website. This is affecting my work.,security,medium,open,2025-10-26 17:13:40
+875,Software license expired,AutoCAD showing license expired message.,software,low,open,2025-10-11 17:13:40
+876,EMERGENCY: Malware detected,Antivirus detected malware on my computer. Please help urgently.,security,high,open,2025-11-18 17:13:40
+877,Need help: Network connectivity issues,Unable to connect to the office network from my laptop. Please help urgently.,network,medium,open,2025-09-06 17:13:40
+878,Software license expired,AutoCAD showing license expired message. Has been happening since yesterday.,software,low,open,2025-08-25 17:13:40
+879,Account locked out,My account has been locked after multiple login attempts. Please help urgently.,account,low,open,2025-10-19 17:13:40
+880,Application crashing,Microsoft Excel crashes every time I open large files. Please help urgently.,software,low,open,2025-11-11 17:13:40
+881,New user account setup,New employee needs account setup for all systems. Please help urgently.,account,low,open,2025-09-24 17:13:40
+882,Need help: WiFi connection problems,Cannot connect to WiFi in conference room B. Please help urgently.,network,medium,open,2025-11-02 17:13:40
+883,Software installation error,Cannot install the updated version of Adobe Reader. Multiple users are reporting this issue.,software,low,in_progress,2025-09-09 17:13:40
+884,VPN not working,VPN connection keeps dropping every few minutes. Has been happening since yesterday.,network,low,open,2025-10-04 17:13:40
+885,Network connectivity issues,Unable to connect to the office network from my laptop. Multiple users are reporting this issue.,network,low,in_progress,2025-10-11 17:13:40
+886,Network printer offline,Network printer is showing offline status. This is affecting my work.,network,low,in_progress,2025-11-11 17:13:40
+887,Data breach concern,"Concerned about potential data breach, unusual activity noticed. Has been happening since yesterday.",security,low,open,2025-09-03 17:13:40
+888,High priority: Email client not syncing,Outlook is not syncing my emails properly.,software,medium,open,2025-11-04 17:13:40
+889,Data breach concern,"Concerned about potential data breach, unusual activity noticed.",security,low,in_progress,2025-10-14 17:13:40
+890,Need help: Network connectivity issues,Unable to connect to the office network from my laptop. Please help urgently.,network,medium,open,2025-11-20 17:13:40
+891,Network printer offline,Network printer is showing offline status. This is affecting my work.,network,low,resolved,2025-11-18 17:13:40
+892,Need help: Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. Multiple users are reporting this issue.,security,medium,in_progress,2025-09-25 17:13:40
+893,Software installation error,Cannot install the updated version of Adobe Reader. This is affecting my work.,software,low,resolved,2025-09-26 17:13:40
+894,VPN not working,VPN connection keeps dropping every few minutes. Multiple users are reporting this issue.,network,low,in_progress,2025-09-18 17:13:40
+895,Need help: Printer paper jam,Office printer has a paper jam that I cannot clear. Please help urgently.,hardware,medium,open,2025-10-14 17:13:40
+896,High priority: Data breach concern,"Concerned about potential data breach, unusual activity noticed.",security,medium,resolved,2025-08-24 17:13:40
+897,System down: Slow internet speed,"Internet is extremely slow, pages take forever to load. Has been happening since yesterday.",network,high,resolved,2025-11-20 17:13:40
+898,Network connectivity issues,Unable to connect to the office network from my laptop. Please help urgently.,network,low,in_progress,2025-10-09 17:13:40
+899,Application crashing,Microsoft Excel crashes every time I open large files. Has been happening since yesterday.,software,low,in_progress,2025-10-20 17:13:40
+900,System down: New user account setup,New employee needs account setup for all systems. Please help urgently.,account,high,open,2025-08-25 17:13:40
+901,System down: Software installation error,Cannot install the updated version of Adobe Reader.,software,high,open,2025-11-17 17:13:40
+902,High priority: WiFi connection problems,Cannot connect to WiFi in conference room B.,network,medium,open,2025-11-01 17:13:40
+903,Data breach concern,"Concerned about potential data breach, unusual activity noticed. This is affecting my work.",security,low,open,2025-09-18 17:13:40
+904,Access permission needed,Need access to the shared drive for marketing team. Has been happening since yesterday.,account,low,resolved,2025-10-07 17:13:40
+905,Access permission needed,Need access to the shared drive for marketing team. Please help urgently.,account,low,in_progress,2025-08-27 17:13:40
+906,Account locked out,My account has been locked after multiple login attempts. Please help urgently.,account,low,open,2025-09-16 17:13:40
+907,Mouse not responding,Wireless mouse is not connecting to my computer. Multiple users are reporting this issue.,hardware,low,open,2025-11-12 17:13:40
+908,Monitor display issues,Second monitor is not being detected by my computer. Multiple users are reporting this issue.,hardware,low,resolved,2025-10-11 17:13:40
+909,System down: New user account setup,New employee needs account setup for all systems. Multiple users are reporting this issue.,account,high,resolved,2025-08-22 17:13:40
+910,Important: Software license expired,AutoCAD showing license expired message. Please help urgently.,software,medium,resolved,2025-09-26 17:13:40
+911,Need help: Application crashing,Microsoft Excel crashes every time I open large files. Has been happening since yesterday.,software,medium,open,2025-10-30 17:13:40
+912,New user account setup,New employee needs account setup for all systems. Multiple users are reporting this issue.,account,low,open,2025-09-04 17:13:40
+913,WiFi connection problems,Cannot connect to WiFi in conference room B. Multiple users are reporting this issue.,network,low,open,2025-09-11 17:13:40
+914,Data breach concern,"Concerned about potential data breach, unusual activity noticed. Please help urgently.",security,low,open,2025-10-14 17:13:40
+915,WiFi connection problems,Cannot connect to WiFi in conference room B. Has been happening since yesterday.,network,low,resolved,2025-09-03 17:13:40
+916,Major issue: Network printer offline,Network printer is showing offline status. Multiple users are reporting this issue.,network,high,open,2025-10-23 17:13:40
+917,CRITICAL: Malware detected,Antivirus detected malware on my computer.,security,high,open,2025-11-09 17:13:40
+918,Important: Mouse not responding,Wireless mouse is not connecting to my computer.,hardware,medium,resolved,2025-11-01 17:13:40
+919,New user account setup,New employee needs account setup for all systems. Multiple users are reporting this issue.,account,low,open,2025-11-11 17:13:40
+920,Mouse not responding,Wireless mouse is not connecting to my computer.,hardware,low,open,2025-11-01 17:13:40
+921,Software installation error,Cannot install the updated version of Adobe Reader. Please help urgently.,software,low,open,2025-08-22 17:13:40
+922,Network printer offline,Network printer is showing offline status. Please help urgently.,network,low,in_progress,2025-09-24 17:13:40
+923,Suspicious email received,Received a phishing email claiming to be from IT.,security,low,open,2025-10-31 17:13:40
+924,Slow internet speed,"Internet is extremely slow, pages take forever to load. This is affecting my work.",network,low,open,2025-10-11 17:13:40
+925,Printer paper jam,Office printer has a paper jam that I cannot clear. This is affecting my work.,hardware,low,open,2025-10-31 17:13:40
+926,Important: Application crashing,Microsoft Excel crashes every time I open large files. Please help urgently.,software,medium,open,2025-11-15 17:13:40
+927,Network printer offline,Network printer is showing offline status. Please help urgently.,network,low,resolved,2025-11-18 17:13:40
+928,Mouse not responding,Wireless mouse is not connecting to my computer. This is affecting my work.,hardware,low,open,2025-11-17 17:13:40
+929,Application crashing,Microsoft Excel crashes every time I open large files. Please help urgently.,software,low,open,2025-10-19 17:13:40
+930,System down: Password reset request,I forgot my password and need to reset it. Please help urgently.,account,high,open,2025-10-25 17:13:40
+931,Printer paper jam,Office printer has a paper jam that I cannot clear.,hardware,low,open,2025-08-22 17:13:40
+932,New user account setup,New employee needs account setup for all systems.,account,low,open,2025-10-29 17:13:40
+933,Mouse not responding,Wireless mouse is not connecting to my computer. Multiple users are reporting this issue.,hardware,low,resolved,2025-10-05 17:13:40
+934,Software installation error,Cannot install the updated version of Adobe Reader. Has been happening since yesterday.,software,low,open,2025-11-07 17:13:40
+935,Password reset request,I forgot my password and need to reset it. This is affecting my work.,account,low,open,2025-11-18 17:13:40
+936,Monitor display issues,Second monitor is not being detected by my computer.,hardware,low,resolved,2025-09-15 17:13:40
+937,Important: WiFi connection problems,Cannot connect to WiFi in conference room B.,network,medium,open,2025-11-01 17:13:40
+938,System down: Email account issues,"Cannot access my email account, shows invalid credentials. Has been happening since yesterday.",account,high,in_progress,2025-09-23 17:13:40
+939,Important: Security certificate error,Getting security certificate error on company website. Has been happening since yesterday.,security,medium,open,2025-09-24 17:13:40
+940,EMERGENCY: Browser performance issues,Chrome browser is very slow and unresponsive. Multiple users are reporting this issue.,software,high,in_progress,2025-09-25 17:13:40
+941,Email account issues,"Cannot access my email account, shows invalid credentials. Please help urgently.",account,low,resolved,2025-09-21 17:13:40
+942,Email account issues,"Cannot access my email account, shows invalid credentials. This is affecting my work.",account,low,in_progress,2025-09-05 17:13:40
+943,High priority: Malware detected,Antivirus detected malware on my computer. This is affecting my work.,security,medium,resolved,2025-09-12 17:13:40
+944,Need help: Email client not syncing,Outlook is not syncing my emails properly. Please help urgently.,software,medium,open,2025-10-24 17:13:40
+945,New user account setup,New employee needs account setup for all systems.,account,low,in_progress,2025-09-13 17:13:40
+946,Need help: Browser performance issues,Chrome browser is very slow and unresponsive. Multiple users are reporting this issue.,software,medium,resolved,2025-10-11 17:13:40
+947,System down: Keyboard keys not working,Several keys on my keyboard have stopped responding.,hardware,high,resolved,2025-09-06 17:13:40
+948,Security certificate error,Getting security certificate error on company website. Please help urgently.,security,low,resolved,2025-09-27 17:13:40
+949,Network printer offline,Network printer is showing offline status. Multiple users are reporting this issue.,network,low,open,2025-10-03 17:13:40
+950,Security certificate error,Getting security certificate error on company website. Has been happening since yesterday.,security,low,resolved,2025-09-23 17:13:40
+951,Application crashing,Microsoft Excel crashes every time I open large files. Has been happening since yesterday.,software,low,open,2025-09-19 17:13:40
+952,Browser performance issues,Chrome browser is very slow and unresponsive. Has been happening since yesterday.,software,low,open,2025-10-04 17:13:40
+953,Need help: New user account setup,New employee needs account setup for all systems.,account,medium,open,2025-10-24 17:13:40
+954,Password reset request,I forgot my password and need to reset it. Multiple users are reporting this issue.,account,low,open,2025-11-15 17:13:40
+955,Account locked out,My account has been locked after multiple login attempts. Please help urgently.,account,low,open,2025-11-09 17:13:40
+956,Important: Access permission needed,Need access to the shared drive for marketing team. Multiple users are reporting this issue.,account,medium,open,2025-11-19 17:13:40
+957,Important: VPN not working,VPN connection keeps dropping every few minutes. This is affecting my work.,network,medium,resolved,2025-10-23 17:13:40
+958,High priority: Software installation error,Cannot install the updated version of Adobe Reader.,software,medium,open,2025-10-30 17:13:40
+959,Email account issues,"Cannot access my email account, shows invalid credentials. Has been happening since yesterday.",account,low,open,2025-09-13 17:13:40
+960,High priority: Mouse not responding,Wireless mouse is not connecting to my computer. Has been happening since yesterday.,hardware,medium,open,2025-10-22 17:13:40
+961,Security certificate error,Getting security certificate error on company website.,security,low,resolved,2025-11-12 17:13:40
+962,Suspicious email received,Received a phishing email claiming to be from IT. Multiple users are reporting this issue.,security,low,resolved,2025-10-18 17:13:40
+963,Browser performance issues,Chrome browser is very slow and unresponsive. Has been happening since yesterday.,software,low,in_progress,2025-10-21 17:13:40
+964,Network printer offline,Network printer is showing offline status. Please help urgently.,network,low,open,2025-09-19 17:13:40
+965,Major issue: Laptop screen flickering,My laptop screen keeps flickering and going black. This is affecting my work.,hardware,high,in_progress,2025-09-22 17:13:40
+966,Need help: VPN not working,VPN connection keeps dropping every few minutes. Multiple users are reporting this issue.,network,medium,in_progress,2025-10-02 17:13:40
+967,High priority: Monitor display issues,Second monitor is not being detected by my computer. Has been happening since yesterday.,hardware,medium,open,2025-09-14 17:13:40
+968,High priority: Data breach concern,"Concerned about potential data breach, unusual activity noticed.",security,medium,open,2025-08-28 17:13:40
+969,Laptop screen flickering,My laptop screen keeps flickering and going black. Has been happening since yesterday.,hardware,low,open,2025-10-21 17:13:40
+970,Malware detected,Antivirus detected malware on my computer. Please help urgently.,security,low,open,2025-11-07 17:13:40
+971,Account locked out,My account has been locked after multiple login attempts. This is affecting my work.,account,low,in_progress,2025-11-20 17:13:40
+972,Email client not syncing,Outlook is not syncing my emails properly. This is affecting my work.,software,low,open,2025-08-30 17:13:40
+973,Need help: WiFi connection problems,Cannot connect to WiFi in conference room B. This is affecting my work.,network,medium,open,2025-09-11 17:13:40
+974,VPN not working,VPN connection keeps dropping every few minutes. Multiple users are reporting this issue.,network,low,in_progress,2025-11-10 17:13:40
+975,High priority: Software license expired,AutoCAD showing license expired message. Please help urgently.,software,medium,resolved,2025-09-08 17:13:40
+976,Need help: Unauthorized access attempt,Multiple failed login attempts on my account from unknown location. This is affecting my work.,security,medium,open,2025-09-19 17:13:40
+977,High priority: Email account issues,"Cannot access my email account, shows invalid credentials.",account,medium,open,2025-10-18 17:13:40
+978,Need help: Network printer offline,Network printer is showing offline status. Multiple users are reporting this issue.,network,medium,in_progress,2025-11-05 17:13:40
+979,Monitor display issues,Second monitor is not being detected by my computer. Multiple users are reporting this issue.,hardware,low,open,2025-10-07 17:13:40
+980,Printer paper jam,Office printer has a paper jam that I cannot clear. Has been happening since yesterday.,hardware,low,open,2025-08-24 17:13:40
+981,Slow internet speed,"Internet is extremely slow, pages take forever to load. This is affecting my work.",network,low,in_progress,2025-09-30 17:13:40
+982,High priority: Browser performance issues,Chrome browser is very slow and unresponsive.,software,medium,open,2025-09-28 17:13:40
+983,Need help: Mouse not responding,Wireless mouse is not connecting to my computer. Multiple users are reporting this issue.,hardware,medium,open,2025-11-19 17:13:40
+984,CRITICAL: Email account issues,"Cannot access my email account, shows invalid credentials. Has been happening since yesterday.",account,high,open,2025-09-09 17:13:40
+985,Major issue: Mouse not responding,Wireless mouse is not connecting to my computer. Has been happening since yesterday.,hardware,high,in_progress,2025-10-14 17:13:40
+986,Important: Account locked out,My account has been locked after multiple login attempts. Multiple users are reporting this issue.,account,medium,open,2025-10-08 17:13:40
+987,Software installation error,Cannot install the updated version of Adobe Reader. Has been happening since yesterday.,software,low,open,2025-10-22 17:13:40
+988,Network connectivity issues,Unable to connect to the office network from my laptop. Has been happening since yesterday.,network,low,open,2025-10-22 17:13:40
+989,Email client not syncing,Outlook is not syncing my emails properly. This is affecting my work.,software,low,open,2025-08-29 17:13:40
+990,Laptop screen flickering,My laptop screen keeps flickering and going black.,hardware,low,open,2025-11-10 17:13:40
+991,Email account issues,"Cannot access my email account, shows invalid credentials. Please help urgently.",account,low,resolved,2025-11-14 17:13:40
+992,EMERGENCY: Monitor display issues,Second monitor is not being detected by my computer.,hardware,high,open,2025-10-16 17:13:40
+993,URGENT: Malware detected,Antivirus detected malware on my computer. Has been happening since yesterday.,security,high,in_progress,2025-10-16 17:13:40
+994,Access permission needed,Need access to the shared drive for marketing team.,account,low,open,2025-09-14 17:13:40
+995,Software license expired,AutoCAD showing license expired message. This is affecting my work.,software,low,resolved,2025-09-05 17:13:40
+996,URGENT: WiFi connection problems,Cannot connect to WiFi in conference room B. Multiple users are reporting this issue.,network,high,resolved,2025-11-07 17:13:40
+997,Need help: Browser performance issues,Chrome browser is very slow and unresponsive. Please help urgently.,software,medium,open,2025-10-03 17:13:40
+998,Security certificate error,Getting security certificate error on company website.,security,low,resolved,2025-09-10 17:13:40
+999,EMERGENCY: Software installation error,Cannot install the updated version of Adobe Reader. Please help urgently.,software,high,open,2025-09-22 17:13:40
+1000,Suspicious email received,Received a phishing email claiming to be from IT. This is affecting my work.,security,low,open,2025-10-19 17:13:40
