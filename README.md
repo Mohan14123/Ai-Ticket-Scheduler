@@ -11,26 +11,26 @@ An AI-powered service desk assistant that automates ticket triage, priority scor
 - SQLite storage + assignment logs
 ## Files
   ai-ticket-scheduler/
-│
-├── api.py
-├── train.py
-├── streamlit_app.py
-├── db.py
-│
-├── models/
-│   └── (trained model saved here)
-│
-├── utils/
-│   ├── triage.py
-│   └── embeddings.py
-│
-├── data/
-│   └── generate_synthetic.py
-│
-├── sample_data/
-│
-├── requirements.txt
-└── README.md
+  │
+  ├── api.py
+  ├── train.py
+  ├── streamlit_app.py
+  ├── db.py
+  │
+  ├── models/
+  │   └── (trained model saved here)
+  │
+  ├── utils/ 
+  │   ├── triage.py
+  │   └── embeddings.py
+  │
+  ├── data/
+  │   └── generate_synthetic.py
+  │
+  ├── sample_data/
+  │
+  ├── requirements.txt
+  
 
   
 ## How to Run
